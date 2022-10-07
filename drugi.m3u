@@ -1,0 +1,563 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="" group-title="Hrvatska",HRT 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/6
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="" group-title="Hrvatska",HRT 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/7
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="" group-title="Hrvatska",HRT 3
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/8
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4" tvg-logo="" group-title="Hrvatska",HRT 4
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/9
+#EXTINF:-1 tvg-id="nova" tvg-name="Neu Tv Cro" tvg-logo="" group-title="Hrvatska",Neu Tv Cro
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/10
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL" tvg-logo="" group-title="Hrvatska",RTL
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/11
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 Info Hr" tvg-logo="" group-title="Hrvatska",N1 Info Hr
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2939
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="" group-title="Hrvatska",RTL 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/12
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL Pasion" tvg-logo="" group-title="Hrvatska",RTL Pasion
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3123
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living" tvg-logo="" group-title="Hrvatska",RTL Living
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/572
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL Crime" tvg-logo="" group-title="Hrvatska",RTL Crime
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/954
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL Kockica" tvg-logo="" group-title="Hrvatska",RTL Kockica
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/13
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma TV" tvg-logo="" group-title="Hrvatska",Doma TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/16
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="" group-title="Hrvatska",Z1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3459
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="Slavonska TV" tvg-logo="" group-title="Hrvatska",Slavonska TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/15
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="" group-title="Hrvatska",CMC
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/17
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton" tvg-logo="" group-title="Hrvatska",Jugoton
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2938
+#EXTINF:-1 tvg-id="ostv" tvg-name="Osjecka TV" tvg-logo="" group-title="Hrvatska",Osjecka TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/18
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="Vinkovacka TV" tvg-logo="" group-title="Hrvatska",Vinkovacka TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/19
+#EXTINF:-1 tvg-id="" tvg-name="Crotv" tvg-logo="" group-title="",Crotv
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3586
+#EXTINF:-1 tvg-id="" tvg-name="Posavina TV" tvg-logo="" group-title="BiH",Posavina TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/362
+#EXTINF:-1 tvg-id="" tvg-name="Bosansko Posavska TV" tvg-logo="" group-title="BiH",Bosansko Posavska TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4080
+#EXTINF:-1 tvg-id="" tvg-name="RTV BANOVINA" tvg-logo="" group-title="Hrvatska",RTV BANOVINA
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/581
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="Klasik TV" tvg-logo="" group-title="Movies",Klasik TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/106
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="Laudato TV" tvg-logo="" group-title="Hrvatska",Laudato TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4028
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="" group-title="Srbija",RTS 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/1
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2" tvg-logo="" group-title="Srbija",RTS 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3" tvg-logo="" group-title="Srbija",RTS 3
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2861
+#EXTINF:-1 tvg-id="pink" tvg-name="Pink" tvg-logo="" group-title="Pink",Pink
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/161
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="Prva" tvg-logo="" group-title="Srbija",Prva
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4
+#EXTINF:-1 tvg-id="prva-plus" tvg-name="Prva Plus" tvg-logo="" group-title="Srbija",Prva Plus
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/68
+#EXTINF:-1 tvg-id="b92" tvg-name="B92" tvg-logo="" group-title="Srbija",B92
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/5
+#EXTINF:-1 tvg-id="happytv" tvg-name="Happy TV" tvg-logo="" group-title="Srbija",Happy TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/70
+#EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV1" tvg-logo="" group-title="Srbija",RTV1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2911
+#EXTINF:-1 tvg-id="vojvodina-2" tvg-name="RTV2" tvg-logo="" group-title="Srbija",RTV2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2912
+#EXTINF:-1 tvg-id="nova-s" tvg-name="Neu Tv Srb" tvg-logo="" group-title="Srbija",Neu Tv Srb
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3899
+#EXTINF:-1 tvg-id="" tvg-name="Sandzak TV" tvg-logo="" group-title="Srbija",Sandzak TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2536
+#EXTINF:-1 tvg-id="novi-pazar" tvg-name="RTV Novi Pazar" tvg-logo="" group-title="Srbija",RTV Novi Pazar
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2898
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 Info SRB HD" tvg-logo="" group-title="Srbija",N1 Info SRB HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2445
+#EXTINF:-1 tvg-id="bht1.ba" tvg-name="BHT 1" tvg-logo="" group-title="BiH",BHT 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/24
+#EXTINF:-1 tvg-id="" tvg-name="BHT 1." tvg-logo="" group-title="BiH",BHT 1.
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3925
+#EXTINF:-1 tvg-id="ftv" tvg-name="Federalna TV" tvg-logo="" group-title="BiH",Federalna TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/23
+#EXTINF:-1 tvg-id="obn" tvg-name="OBN" tvg-logo="" group-title="BiH",OBN
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/26
+#EXTINF:-1 tvg-id="obn.ba" tvg-name="OBN HD" tvg-logo="" group-title="BiH",OBN HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4015
+#EXTINF:-1 tvg-id="bn" tvg-name="BN" tvg-logo="" group-title="BiH",BN
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/29
+#EXTINF:-1 tvg-id="" tvg-name="BN HD" tvg-logo="" group-title="BiH",BN HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4079
+#EXTINF:-1 tvg-id="rtrs.ba" tvg-name="RTRS" tvg-logo="" group-title="BiH",RTRS
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/72
+#EXTINF:-1 tvg-id="face-tv" tvg-name="Face TV" tvg-logo="" group-title="BiH",Face TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/203
+#EXTINF:-1 tvg-id="" tvg-name="Face TV HD" tvg-logo="" group-title="BiH",Face TV HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3967
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="Hayat HD" tvg-logo="" group-title="BiH",Hayat HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3926
+#EXTINF:-1 tvg-id="hayat-tv.ba" tvg-name="Hayat TV" tvg-logo="" group-title="BiH",Hayat TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/27
+#EXTINF:-1 tvg-id="hayat-plus" tvg-name="HAYAT PLUS" tvg-logo="" group-title="BiH",HAYAT PLUS
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3023
+#EXTINF:-1 tvg-id="hayat-folk.music" tvg-name="Hayat Folk" tvg-logo="" group-title="BiH",Hayat Folk
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3199
+#EXTINF:-1 tvg-id="" tvg-name="RTV HB" tvg-logo="" group-title="BiH",RTV HB
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4090
+#EXTINF:-1 tvg-id="n1" tvg-name="N1 Info BiH" tvg-logo="" group-title="BiH",N1 Info BiH
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/358
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="Neu Tv BiH." tvg-logo="" group-title="BiH",Neu Tv BiH.
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3478
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="Neu Tv BiH" tvg-logo="" group-title="BiH",Neu Tv BiH
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4078
+#EXTINF:-1 tvg-id="tv1" tvg-name="TV1" tvg-logo="" group-title="BiH",TV1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/31
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="" group-title="BiH",ATV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/498
+#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-name="Al Jazeera Balkans" tvg-logo="" group-title="BiH",Al Jazeera Balkans
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/437
+#EXTINF:-1 tvg-id="" tvg-name="TV SARAJEVO" tvg-logo="" group-title="BiH",TV SARAJEVO
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3009
+#EXTINF:-1 tvg-id="" tvg-name="TV TK" tvg-logo="" group-title="BiH",TV TK
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3197
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Zenica" tvg-logo="" group-title="BiH",Rtv Zenica
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3198
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Tatabrada Tv" tvg-logo="" group-title="Documentary",Tatabrada Tv
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4088
+#EXTINF:-1 tvg-id="" tvg-name="Izvorna tv" tvg-logo="" group-title="BiH",Izvorna tv
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3481
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Igman/A1 ISLAM" tvg-logo="" group-title="BiH",Mtv Igman/A1 ISLAM
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3085
+#EXTINF:-1 tvg-id="" tvg-name="Televizija 5  Islam" tvg-logo="" group-title="BiH",Televizija 5  Islam
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3193
+#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="" group-title="Pink",Pink Kids
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/476
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/551
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney" tvg-logo="" group-title="Kids",Disney
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/677
+#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="" group-title="Kids",Minimax
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/382
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids",Nickelodeon
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/105
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="" group-title="Kids",Boomerang
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3022
+#EXTINF:-1 tvg-id="hayatovci.toons" tvg-name="Hayatovci" tvg-logo="" group-title="Kids",Hayatovci
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/33
+#EXTINF:-1 tvg-id="babytv" tvg-name="Baby" tvg-logo="" group-title="Kids",Baby
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/550
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="NickJr" tvg-logo="" group-title="Kids",NickJr
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3460
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO HD" tvg-logo="" group-title="Movies",HBO HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/73
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="" group-title="Movies",HBO 2 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/35
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD" tvg-logo="" group-title="Movies",HBO 3 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3117
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="CineStar TV" tvg-logo="" group-title="Movies",CineStar TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/264
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CineStar Premiere 1 HD" tvg-logo="" group-title="Movies",CineStar Premiere 1 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/36
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CineStar Premiere 2 HD" tvg-logo="" group-title="Movies",CineStar Premiere 2 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/37
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1" tvg-logo="" group-title="Movies",Cinemax 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/38
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2" tvg-logo="" group-title="Movies",Cinemax 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/39
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="" group-title="Movies",TV 1000
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/286
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA" tvg-logo="" group-title="Movies",DIVA
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/545
+#EXTINF:-1 tvg-id="scifi" tvg-name="SciFi" tvg-logo="" group-title="Movies",SciFi
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/285
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX HD" tvg-logo="" group-title="Movies",FOX HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/43
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="FOX Movies HD" tvg-logo="" group-title="Movies",FOX Movies HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/288
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX Crime HD" tvg-logo="" group-title="Movies",FOX Crime HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/41
+#EXTINF:-1 tvg-id="fox-life" tvg-name="FOX Life HD" tvg-logo="" group-title="Movies",FOX Life HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/42
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="" group-title="Movies",AXN
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2537
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="S.K.1HD" tvg-logo="" group-title="Sport",S.K.1HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4047
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="S.K.2HD" tvg-logo="" group-title="Sport",S.K.2HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4046
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="S.K.3HD" tvg-logo="" group-title="Sport",S.K.3HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4045
+#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="S.K HD" tvg-logo="" group-title="Sport",S.K HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/1566
+#EXTINF:-1 tvg-id="nova-sport-rs" tvg-name="N.S" tvg-logo="" group-title="Sport",N.S
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/357
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="S.K 1 HD" tvg-logo="" group-title="Sport",S.K 1 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/192
+#EXTINF:-1 tvg-id="sportklub-plus-rs" tvg-name="S.K 2 HD" tvg-logo="" group-title="Sport",S.K 2 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/193
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija" tvg-name="S.K 3 HD" tvg-logo="" group-title="Sport",S.K 3 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/194
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="A1_HR" tvg-logo="" group-title="Sport",A1_HR
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/63
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="A2_HR" tvg-logo="" group-title="Sport",A2_HR
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/67
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="A3_HR" tvg-logo="" group-title="Sport",A3_HR
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/62
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="A4_HR" tvg-logo="" group-title="Sport",A4_HR
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/61
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="A5_HR" tvg-logo="" group-title="Sport",A5_HR
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/647
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="A6_HR" tvg-logo="" group-title="Sport",A6_HR
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3487
+#EXTINF:-1 tvg-id="htv1" tvg-name="A_HR on demand" tvg-logo="" group-title="Sport",A_HR on demand
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4076
+#EXTINF:-1 tvg-id="" tvg-name="Max S1" tvg-logo="" group-title="Sport",Max S1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4099
+#EXTINF:-1 tvg-id="" tvg-name="Max S2" tvg-logo="" group-title="Hrvatska",Max S2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4100
+#EXTINF:-1 tvg-id="" tvg-name="A1_BiH" tvg-logo="" group-title="",A1_BiH
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3924
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="A1_Sr" tvg-logo="" group-title="Sport",A1_Sr
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/44
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="A2_Sr" tvg-logo="" group-title="Sport",A2_Sr
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/45
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="A3_Sr" tvg-logo="" group-title="Sport",A3_Sr
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/46
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="A4_Sr" tvg-logo="" group-title="Sport",A4_Sr
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/47
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="A5_Sr" tvg-logo="" group-title="Sport",A5_Sr
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/1531
+#EXTINF:-1 tvg-id="htv1" tvg-name="Esp 1 HD" tvg-logo="" group-title="Sport",Esp 1 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/122
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Esp 2 HD" tvg-logo="" group-title="Sport",Esp 2 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/123
+#EXTINF:-1 tvg-id="fightchannel" tvg-name="Fight Channel" tvg-logo="" group-title="Sport",Fight Channel
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3482
+#EXTINF:-1 tvg-id="hntv" tvg-name="HN_TV" tvg-logo="" group-title="Sport",HN_TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3122
+#EXTINF:-1 tvg-id="sportska-televizija" tvg-name="Sportska TV" tvg-logo="" group-title="Sport",Sportska TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/14
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sport 1 N" tvg-logo="" group-title="International",Sport 1 N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2902
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sport 2 N" tvg-logo="" group-title="International",Sport 2 N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/588
+#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="Sport Austria" tvg-logo="" group-title="International",Sport Austria
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3367
+#EXTINF:-1 tvg-id="" tvg-name="SportF1" tvg-logo="" group-title="",SportF1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3363
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1HD" tvg-logo="" group-title="International",Sport1HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3886
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="BL 1" tvg-logo="" group-title="International",BL 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/594
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-2" tvg-name="BL 2" tvg-logo="" group-title="International",BL 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4051
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-3" tvg-name="BL 3" tvg-logo="" group-title="International",BL 3
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4050
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-4" tvg-name="BL 4" tvg-logo="" group-title="International",BL 4
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4049
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-5" tvg-name="BL 5" tvg-logo="" group-title="International",BL 5
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4048
+#EXTINF:-1 tvg-id="" tvg-name="Dz 1" tvg-logo="" group-title="International",Dz 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4081
+#EXTINF:-1 tvg-id="" tvg-name="Dz 2" tvg-logo="" group-title="International",Dz 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4082
+#EXTINF:-1 tvg-id="pink" tvg-name="Grand Narodna TV" tvg-logo="" group-title="Srbija",Grand Narodna TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/66
+#EXTINF:-1 tvg-id="" tvg-name="Grand 2" tvg-logo="" group-title="Srbija",Grand 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3116
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika" tvg-logo="" group-title="Music",Balkanika
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3200
+#EXTINF:-1 tvg-id="DM Sat" tvg-name="DM Sat" tvg-logo="" group-title="Srbija",DM Sat
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/94
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino" tvg-logo="" group-title="BiH",OTV Valentino
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/364
+#EXTINF:-1 tvg-id="" tvg-name="BN Music" tvg-logo="" group-title="BiH",BN Music
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/131
+#EXTINF:-1 tvg-id="" tvg-name="Duga TV" tvg-logo="" group-title="Srbija",Duga TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3885
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentary",Discovery Channel
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/92
+#EXTINF:-1 tvg-id="history-channel" tvg-name="History Channel" tvg-logo="" group-title="Documentary",History Channel
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/155
+#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History 2 HD" tvg-logo="" group-title="Documentary",History 2 HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3483
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="" group-title="Documentary",National Geographic
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/93
+#EXTINF:-1 tvg-id="ng-wild-hd" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Documentary",Nat Geo Wild
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/546
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime Investigation" tvg-logo="" group-title="Documentary",Crime Investigation
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3479
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet" tvg-logo="" group-title="Documentary",Animal Planet
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/167
+#EXTINF:-1 tvg-id="entertainment" tvg-name="E!" tvg-logo="" group-title="Documentary",E!
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/213
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen HD" tvg-logo="" group-title="Documentary",24 Kitchen HD
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/214
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="Lov i Ribolov" tvg-logo="" group-title="Documentary",Lov i Ribolov
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/387
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="" group-title="Documentary",TLC
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2925
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="" group-title="Documentary",Travel Channel
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2920
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="" group-title="Documentary",Viasat History
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3020
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explore" tvg-logo="" group-title="Documentary",Viasat Explore
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3021
+#EXTINF:-1 tvg-id="pink-2" tvg-name="RED TV" tvg-logo="" group-title="Pink",RED TV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/51
+#EXTINF:-1 tvg-id="pink-3" tvg-name="Pink 3 Info" tvg-logo="" group-title="Pink",Pink 3 Info
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2916
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="" group-title="Pink",Pink Plus
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/86
+#EXTINF:-1 tvg-id="pink-extra" tvg-name="Pink Extra" tvg-logo="" group-title="Pink",Pink Extra
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/99
+#EXTINF:-1 tvg-id="pink-premium" tvg-name="Pink Premium" tvg-logo="" group-title="Pink",Pink Premium
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/125
+#EXTINF:-1 tvg-id="pink-film" tvg-name="Pink Film" tvg-logo="" group-title="Pink",Pink Film
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/78
+#EXTINF:-1 tvg-id="pink-movies" tvg-name="Pink Movies" tvg-logo="" group-title="Pink",Pink Movies
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2923
+#EXTINF:-1 tvg-id="pink-action" tvg-name="Pink Action" tvg-logo="" group-title="Pink",Pink Action
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2924
+#EXTINF:-1 tvg-id="pink-comedy" tvg-name="Pink Comedy" tvg-logo="" group-title="Pink",Pink Comedy
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/142
+#EXTINF:-1 tvg-id="pink-action-2" tvg-name="Pink Thriller" tvg-logo="" group-title="Pink",Pink Thriller
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/130
+#EXTINF:-1 tvg-id="pink-western" tvg-name="Pink Western" tvg-logo="" group-title="Pink",Pink Western
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/205
+#EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="" group-title="Pink",Pink Horror
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/373
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="Pink Romance" tvg-logo="" group-title="Pink",Pink Romance
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/54
+#EXTINF:-1 tvg-id="pink-action-3" tvg-name="Pink Crime & Mystery" tvg-logo="" group-title="Pink",Pink Crime & Mystery
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/124
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="Pink Sci-Fi & Fantasy" tvg-logo="" group-title="Pink",Pink Sci-Fi & Fantasy
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/152
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="" group-title="Pink",Pink Reality
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/147
+#EXTINF:-1 tvg-id="pink-world" tvg-name="Pink z1 uzivo" tvg-logo="" group-title="Pink",Pink z1 uzivo
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/541
+#EXTINF:-1 tvg-id="pink-soap" tvg-name="Pink Soap" tvg-logo="" group-title="Pink",Pink Soap
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3738
+#EXTINF:-1 tvg-id="pink-zabava" tvg-name="Pink Zabava" tvg-logo="" group-title="Pink",Pink Zabava
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/540
+#EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="" group-title="Pink",Pink Folk 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/143
+#EXTINF:-1 tvg-id="pink-music" tvg-name="Pink Music" tvg-logo="" group-title="Pink",Pink Music
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2917
+#EXTINF:-1 tvg-id="Pink Hits 2" tvg-name="Pink Hits" tvg-logo="" group-title="Pink",Pink Hits
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/146
+#EXTINF:-1 tvg-id="pink-bih" tvg-name="Pink BH" tvg-logo="" group-title="Pink",Pink BH
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3011
+#EXTINF:-1 tvg-id="" tvg-name="MTV Adria" tvg-logo="" group-title="Music",MTV Adria
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2922
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="Music",VH1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2921
+#EXTINF:-1 tvg-id="" tvg-name="PAROVI UZIVO" tvg-logo="" group-title="Srbija",PAROVI UZIVO
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3509
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF DE" tvg-logo="" group-title="International",ZDF DE
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2538
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte" tvg-logo="" group-title="International",Arte
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4083
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix" tvg-logo="" group-title="International",Phoenix
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4084
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau24" tvg-logo="" group-title="International",Tagesschau24
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4085
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF Neo" tvg-logo="" group-title="International",ZDF Neo
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4086
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF info" tvg-logo="" group-title="International",ZDF info
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4087
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL DE" tvg-logo="" group-title="International",RTL DE
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2500
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 DE" tvg-logo="" group-title="International",RTL 2 DE
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2501
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL DE" tvg-logo="" group-title="International",Super RTL DE
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2518
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 DE" tvg-logo="" group-title="International",Sat.1 DE
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2503
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben DE" tvg-logo="" group-title="International",ProSieben DE
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2502
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX DE" tvg-logo="" group-title="International",VOX DE
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2504
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="Dmax" tvg-logo="" group-title="International",Dmax
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2926
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel 1 DE" tvg-logo="" group-title="International",Kabel 1 DE
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2904
+#EXTINF:-1 tvg-id="" tvg-name="Kabel eins doku" tvg-logo="" group-title="International",Kabel eins doku
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4095
+#EXTINF:-1 tvg-id="" tvg-name="Nitro HD DE" tvg-logo="" group-title="International",Nitro HD DE
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4096
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3 sat" tvg-logo="" group-title="International",3 sat
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3486
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste" tvg-logo="" group-title="International",Das Erste
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2901
+#EXTINF:-1 tvg-id="n24.de" tvg-name="N24 N" tvg-logo="" group-title="International",N24 N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3375
+#EXTINF:-1 tvg-id="atv.at" tvg-name="ATV AT" tvg-logo="" group-title="International",ATV AT
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4056
+#EXTINF:-1 tvg-id="puls4.at" tvg-name="Puls 4 AT" tvg-logo="" group-title="International",Puls 4 AT
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4054
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte" tvg-logo="" group-title="International",Spiegel Geschichte
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4053
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13th Street" tvg-logo="" group-title="International",13th Street
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3376
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="Cartoon Network N" tvg-logo="" group-title="International",Cartoon Network N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2906
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="Boomerang N" tvg-logo="" group-title="International",Boomerang N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2907
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel N" tvg-logo="" group-title="International",Disney Channel N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2905
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Cinema" tvg-logo="" group-title="International",Cinema
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/590
+#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="Cinema +24" tvg-logo="" group-title="International",Cinema +24
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/591
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Action" tvg-logo="" group-title="International",Action
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/589
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Comedy" tvg-logo="" group-title="International",Comedy
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/592
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Atlantic" tvg-logo="" group-title="International",Atlantic
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2910
+#EXTINF:-1 tvg-id="skyemotion.de" tvg-name="Emotion" tvg-logo="" group-title="International",Emotion
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3371
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Family" tvg-logo="" group-title="International",Family
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3370
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Hits" tvg-logo="" group-title="International",Hits
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3369
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="Krimi" tvg-logo="" group-title="International",Krimi
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3215
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN N" tvg-logo="" group-title="International",AXN N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3377
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox N" tvg-logo="" group-title="International",Fox N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3374
+#EXTINF:-1 tvg-id="tntfilm.de" tvg-name="TNT N" tvg-logo="" group-title="International",TNT N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3373
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic N" tvg-logo="" group-title="International",National Geographic N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3208
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild N" tvg-logo="" group-title="International",Nat Geo Wild N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/593
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery Channel N" tvg-logo="" group-title="International",Discovery Channel N
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2903
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="SLCT 1" tvg-logo="" group-title="International",SLCT 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2543
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="SLCT 2" tvg-logo="" group-title="International",SLCT 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2544
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="SLCT 3" tvg-logo="" group-title="International",SLCT 3
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2545
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="SLCT 4" tvg-logo="" group-title="International",SLCT 4
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2546
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="SLCT 5" tvg-logo="" group-title="International",SLCT 5
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2547
+#EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1" tvg-logo="" group-title="International",ORF 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2525
+#EXTINF:-1 tvg-id="orf2.at" tvg-name="ORF 2" tvg-logo="" group-title="International",ORF 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2526
+#EXTINF:-1 tvg-id="srf-1" tvg-name="SRF 1" tvg-logo="" group-title="Ch",SRF 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/1719
+#EXTINF:-1 tvg-id="srf-zwei" tvg-name="SRF 2" tvg-logo="" group-title="Ch",SRF 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/1720
+#EXTINF:-1 tvg-id="" tvg-name="RTCG" tvg-logo="" group-title="Srbija",RTCG
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3069
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="" group-title="Alb",RTK 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/1694
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="" group-title="Alb",RTK 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3968
+#EXTINF:-1 tvg-id="" tvg-name="Extra fm Zagreb" tvg-logo="" group-title="Radio",Extra fm Zagreb
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4016
+#EXTINF:-1 tvg-id="" tvg-name="Radio NAXI" tvg-logo="" group-title="Radio",Radio NAXI
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/586
+#EXTINF:-1 tvg-id="" tvg-name="Radio Cool SRB" tvg-logo="" group-title="Radio",Radio Cool SRB
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/351
+#EXTINF:-1 tvg-id="" tvg-name="Radio Morava SRB" tvg-logo="" group-title="Radio",Radio Morava SRB
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/354
+#EXTINF:-1 tvg-id="" tvg-name="Radio Naxi Cafe SRB" tvg-logo="" group-title="Radio",Radio Naxi Cafe SRB
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/352
+#EXTINF:-1 tvg-id="" tvg-name="Usce Shopping Radio by Naxi" tvg-logo="" group-title="Radio",Usce Shopping Radio by Naxi
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2593
+#EXTINF:-1 tvg-id="" tvg-name="TOP FM Beograd" tvg-logo="" group-title="Radio",TOP FM Beograd
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2590
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pingvin" tvg-logo="" group-title="Radio",Radio Pingvin
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2591
+#EXTINF:-1 tvg-id="" tvg-name="Radio DAK" tvg-logo="" group-title="Radio",Radio DAK
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2596
+#EXTINF:-1 tvg-id="" tvg-name="Naxi Radio" tvg-logo="" group-title="Radio",Naxi Radio
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2589
+#EXTINF:-1 tvg-id="" tvg-name="NAXI CAFE RADIO" tvg-logo="" group-title="Radio",NAXI CAFE RADIO
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2595
+#EXTINF:-1 tvg-id="" tvg-name="NAXI 80-e RADIO" tvg-logo="" group-title="Radio",NAXI 80-e RADIO
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2594
+#EXTINF:-1 tvg-id="" tvg-name="Yu Planet Radio" tvg-logo="" group-title="Radio",Yu Planet Radio
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3477
+#EXTINF:-1 tvg-id="" tvg-name="Radio BN BIH" tvg-logo="" group-title="Radio",Radio BN BIH
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/356
+#EXTINF:-1 tvg-id="" tvg-name="Radio HRT 1" tvg-logo="" group-title="Radio",Radio HRT 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4041
+#EXTINF:-1 tvg-id="" tvg-name="Radio HRT 2" tvg-logo="" group-title="Radio",Radio HRT 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4042
+#EXTINF:-1 tvg-id="" tvg-name="Siroki" tvg-logo="" group-title="Radio",Siroki
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4074
+#EXTINF:-1 tvg-id="" tvg-name="HKR Radio" tvg-logo="" group-title="Radio",HKR Radio
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4075
+#EXTINF:-1 tvg-id="" tvg-name="Narodni Radio" tvg-logo="" group-title="Radio",Narodni Radio
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3012
+#EXTINF:-1 tvg-id="" tvg-name="Antena Radio HR" tvg-logo="" group-title="Radio",Antena Radio HR
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/344
+#EXTINF:-1 tvg-id="" tvg-name="Porn 1" tvg-logo="" group-title="For Adults",Porn 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3514
+#EXTINF:-1 tvg-id="" tvg-name="Porn 2" tvg-logo="" group-title="For Adults",Porn 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3515
+#EXTINF:-1 tvg-id="" tvg-name="Porn 3" tvg-logo="" group-title="For Adults",Porn 3
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3516
+#EXTINF:-1 tvg-id="" tvg-name="Porn 4" tvg-logo="" group-title="For Adults",Porn 4
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3517
+#EXTINF:-1 tvg-id="" tvg-name="Porn 5" tvg-logo="" group-title="For Adults",Porn 5
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3518
+#EXTINF:-1 tvg-id="" tvg-name="Radio Banovina HR" tvg-logo="" group-title="Radio",Radio Banovina HR
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/346
+#EXTINF:-1 tvg-id="" tvg-name="Otvoreni Radio Hr" tvg-logo="" group-title="Radio",Otvoreni Radio Hr
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/508
+#EXTINF:-1 tvg-id="" tvg-name="Radio Enter Zagreb" tvg-logo="" group-title="Radio",Radio Enter Zagreb
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/507
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dalmacija" tvg-logo="" group-title="Radio",Radio Dalmacija
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3484
+#EXTINF:-1 tvg-id="" tvg-name="Radio Posavina" tvg-logo="" group-title="Radio",Radio Posavina
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2516
+#EXTINF:-1 tvg-id="" tvg-name="Radio Swiss Classic" tvg-logo="" group-title="Radio",Radio Swiss Classic
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/463
+#EXTINF:-1 tvg-id="" tvg-name="Radio Swiss Jazz" tvg-logo="" group-title="Radio",Radio Swiss Jazz
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/461
+#EXTINF:-1 tvg-id="" tvg-name="Radio Swiss Pop" tvg-logo="" group-title="Radio",Radio Swiss Pop
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/462
+#EXTINF:-1 tvg-id="" tvg-name="181.fm - The Mix Channel (70s, 80s, 90s and Todays Best Music)" tvg-logo="" group-title="Radio",181.fm - The Mix Channel (70s, 80s, 90s and Todays Best Music)
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/360
+#EXTINF:-1 tvg-id="" tvg-name="KCN 1" tvg-logo="" group-title="Srbija",KCN 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4097
+#EXTINF:-1 tvg-id="" tvg-name="KCN 2" tvg-logo="" group-title="Srbija",KCN 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/4098
+#EXTINF:-1 tvg-id="" tvg-name="Bum Bum Radio" tvg-logo="" group-title="Radio",Bum Bum Radio
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2592
+#EXTINF:-1 tvg-id="" tvg-name="The Mix Radio Christmas" tvg-logo="" group-title="Radio",The Mix Radio Christmas
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3120
+#EXTINF:-1 tvg-id="" tvg-name="Narodni Radio SAMO SVIRAJ" tvg-logo="" group-title="Radio",Narodni Radio SAMO SVIRAJ
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3846
+#EXTINF:-1 tvg-id="" tvg-name="Narodni Radio LJUBAV" tvg-logo="" group-title="Radio",Narodni Radio LJUBAV
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3847
+#EXTINF:-1 tvg-id="" tvg-name="Narodni Radio VESELO" tvg-logo="" group-title="Radio",Narodni Radio VESELO
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3848
+#EXTINF:-1 tvg-id="" tvg-name="Narodni Radio OPUŠTENO" tvg-logo="" group-title="Radio",Narodni Radio OPUŠTENO
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3849
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 1" tvg-logo="" group-title="",Zadruga 1
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3358
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 2" tvg-logo="" group-title="",Zadruga 2
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3360
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 3" tvg-logo="" group-title="",Zadruga 3
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3361
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 4" tvg-logo="" group-title="",Zadruga 4
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3362
+#EXTINF:-1 tvg-id="" tvg-name="Radio Tomislavgrad" tvg-logo="" group-title="",Radio Tomislavgrad
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/2864
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bir BiH" tvg-logo="" group-title="",Radio Bir BiH
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3059
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mir Medjugorje" tvg-logo="" group-title="",Radio Mir Medjugorje
+http://opanak.xyz:80/fAeir3ErrK/HYquEAY1s6/3056
