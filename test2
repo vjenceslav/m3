@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rts1" tvg-name="Srbija" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Srbija.png" group-title="Srbija",Srbija
+http://zvjerka.com:1194/subasicsabrija/15062021/1
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/50.%20RTS1.png" group-title="Srbija",RTS 1
+http://zvjerka.com:1194/subasicsabrija/15062021/2
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/51.%20RTS%202.png" group-title="Srbija",RTS 2
+http://zvjerka.com:1194/subasicsabrija/15062021/3
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTS_3_logo.png" group-title="Srbija",RTS 3
+http://zvjerka.com:1194/subasicsabrija/15062021/4
+#EXTINF:-1 tvg-id="rts-drama" tvg-name="RTS Drama" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/53.%20RTS%20Drama.png" group-title="Srbija",RTS Drama
+http://zvjerka.com:1194/subasicsabrija/15062021/5
+#EXTINF:-1 tvg-id="rts-sat" tvg-name="RTS Svet" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTS_svet_logo.png" group-title="Srbija",RTS Svet
+http://zvjerka.com:1194/subasicsabrija/15062021/6
+#EXTINF:-1 tvg-id="b92" tvg-name="B92 - O2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/O2.TV.png" group-title="Srbija",B92 - O2
+http://zvjerka.com:1194/subasicsabrija/15062021/7
+#EXTINF:-1 tvg-id="happytv" tvg-name="Happy TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/16.%20HAPPY%20TV.png" group-title="Srbija",Happy TV
+http://zvjerka.com:1194/subasicsabrija/15062021/8
