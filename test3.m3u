@@ -1,0 +1,599 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rts1" tvg-name="Srbija" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Srbija.png" group-title="Srbija",Srbija
+http://zvjerka.com:1194/subasicsabrija/15062021/1
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/50.%20RTS1.png" group-title="Srbija",RTS 1
+http://zvjerka.com:1194/subasicsabrija/15062021/2
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/51.%20RTS%202.png" group-title="Srbija",RTS 2
+http://zvjerka.com:1194/subasicsabrija/15062021/3
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTS_3_logo.png" group-title="Srbija",RTS 3
+http://zvjerka.com:1194/subasicsabrija/15062021/4
+#EXTINF:-1 tvg-id="rts-drama" tvg-name="RTS Drama" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/53.%20RTS%20Drama.png" group-title="Srbija",RTS Drama
+http://zvjerka.com:1194/subasicsabrija/15062021/5
+#EXTINF:-1 tvg-id="rts-sat" tvg-name="RTS Svet" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTS_svet_logo.png" group-title="Srbija",RTS Svet
+http://zvjerka.com:1194/subasicsabrija/15062021/6
+#EXTINF:-1 tvg-id="b92" tvg-name="B92 - O2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/O2.TV.png" group-title="Srbija",B92 - O2
+http://zvjerka.com:1194/subasicsabrija/15062021/7
+#EXTINF:-1 tvg-id="happytv" tvg-name="Happy TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/16.%20HAPPY%20TV.png" group-title="Srbija",Happy TV
+http://zvjerka.com:1194/subasicsabrija/15062021/8
+#EXTINF:-1 tvg-id="" tvg-name="HAPPY PAROVI 24 SATA" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/15.%20HAPPY%20PAROVI.png" group-title="Srbija",HAPPY PAROVI 24 SATA
+http://zvjerka.com:1194/subasicsabrija/15062021/9
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/72.%20PINK%201.png" group-title="Srbija",PINK 1
+http://zvjerka.com:1194/subasicsabrija/15062021/10
+#EXTINF:-1 tvg-id="pink-2" tvg-name="PINK 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/73.%20PINK%202.png" group-title="Srbija",PINK 2
+http://zvjerka.com:1194/subasicsabrija/15062021/11
+#EXTINF:-1 tvg-id="pink-3" tvg-name="Pink 3 Info" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/74.%20PINK%203.png" group-title="Srbija",Pink 3 Info
+http://zvjerka.com:1194/subasicsabrija/15062021/12
+#EXTINF:-1 tvg-id="htv1" tvg-name="N1 SRB" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/26.%20N1%20SRB.png" group-title="Srbija",N1 SRB
+http://zvjerka.com:1194/subasicsabrija/15062021/13
+#EXTINF:-1 tvg-id="nova-s" tvg-name="Nova S" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/32.%20NOVA%20TV.png" group-title="Srbija",Nova S
+http://zvjerka.com:1194/subasicsabrija/15062021/15
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="Prva TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/35.%20Prva.png" group-title="Srbija",Prva TV
+http://zvjerka.com:1194/subasicsabrija/15062021/16
+#EXTINF:-1 tvg-id="prva-max" tvg-name="Prva Max" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/36.%20PRVA%20MAX.png" group-title="Srbija",Prva Max
+http://zvjerka.com:1194/subasicsabrija/15062021/17
+#EXTINF:-1 tvg-id="prva-plus" tvg-name="Prva Plus" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/Prva_Plus_Logo.png" group-title="Srbija",Prva Plus
+http://zvjerka.com:1194/subasicsabrija/15062021/18
+#EXTINF:-1 tvg-id="prva-kick" tvg-name="Prva Kick" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/37.%20Prva%20Kick.png" group-title="Srbija",Prva Kick
+http://zvjerka.com:1194/subasicsabrija/15062021/19
+#EXTINF:-1 tvg-id="prva-world" tvg-name="PRVA WORLD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/38.%20PRVA%20WORLD.png" group-title="Srbija",PRVA WORLD
+http://zvjerka.com:1194/subasicsabrija/15062021/20
+#EXTINF:-1 tvg-id="" tvg-name="Prva Files" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Prva_FILES_logo.png" group-title="Srbija",Prva Files
+http://zvjerka.com:1194/subasicsabrija/15062021/8830
+#EXTINF:-1 tvg-id="" tvg-name="Kurir TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/KurirTV_logo.png" group-title="Srbija",Kurir TV
+http://zvjerka.com:1194/subasicsabrija/15062021/8828
+#EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV Vojvodina" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/56.%20RTV%20VOJVODINA.png" group-title="Srbija",RTV Vojvodina
+http://zvjerka.com:1194/subasicsabrija/15062021/21
+#EXTINF:-1 tvg-id="" tvg-name="RTV Vojvodina 2" tvg-logo="https://static.rtv.rs/slike/2019/06/11/rtv2.jpg" group-title="Srbija",RTV Vojvodina 2
+http://zvjerka.com:1194/subasicsabrija/15062021/6593
+#EXTINF:-1 tvg-id="novi-pazar" tvg-name="RTV Novi Pazar" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/57.%20RTV%20NOVI%20PAZAR.png" group-title="Srbija",RTV Novi Pazar
+http://zvjerka.com:1194/subasicsabrija/15062021/22
+#EXTINF:-1 tvg-id="tv-hram" tvg-name="Hram" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/55.%20HRAM.png" group-title="Srbija",Hram
+http://zvjerka.com:1194/subasicsabrija/15062021/23
+#EXTINF:-1 tvg-id="" tvg-name="K1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/K1_Studio_logo.png" group-title="Srbija",K1
+http://zvjerka.com:1194/subasicsabrija/15062021/9071
+#EXTINF:-1 tvg-id="" tvg-name="Hrvatska " tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Hrvatska.png" group-title="Hrvatska",Hrvatska 
+http://zvjerka.com:1194/subasicsabrija/15062021/24
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/19.%20HRT1.png" group-title="Hrvatska",HTV 1
+http://zvjerka.com:1194/subasicsabrija/15062021/25
+#EXTINF:-1 tvg-id="htv2" tvg-name="HTV 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/20.%20HRT2.png" group-title="Hrvatska",HTV 2
+http://zvjerka.com:1194/subasicsabrija/15062021/26
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/21.%20HRT3.png" group-title="Hrvatska",HTV 3
+http://zvjerka.com:1194/subasicsabrija/15062021/27
+#EXTINF:-1 tvg-id="htv4" tvg-name="HTV 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/22.%20HRT4.png" group-title="Hrvatska",HTV 4
+http://zvjerka.com:1194/subasicsabrija/15062021/28
+#EXTINF:-1 tvg-id="htv5" tvg-name="HTV 5" tvg-logo="http://62.210.209.80:82/logo_channels/hrt5.png" group-title="Hrvatska",HTV 5
+http://zvjerka.com:1194/subasicsabrija/15062021/29
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova TV (H265)" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/33.%20NOVA%20TV.png" group-title="Hrvatska",Nova TV (H265)
+http://zvjerka.com:1194/subasicsabrija/15062021/30
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/33.%20NOVA%20TV.png" group-title="Hrvatska",Nova TV
+http://zvjerka.com:1194/subasicsabrija/15062021/7990
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL (H265)" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/44.%20RTL.png" group-title="Hrvatska",RTL (H265)
+http://zvjerka.com:1194/subasicsabrija/15062021/31
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/44.%20RTL.png" group-title="Hrvatska",RTL HR
+http://zvjerka.com:1194/subasicsabrija/15062021/7991
+#EXTINF:-1 tvg-id="" tvg-name="RTL Adria" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/80/RTL_Adria_%282020-.n.v.%29.png/revision/latest?cb=20200225184616" group-title="Hrvatska",RTL Adria
+http://zvjerka.com:1194/subasicsabrija/15062021/9162
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/45.%20RTL%202.png" group-title="Hrvatska",RTL 2
+http://zvjerka.com:1194/subasicsabrija/15062021/32
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL Crime" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Crime_logo.png" group-title="Hrvatska",RTL Crime
+http://zvjerka.com:1194/subasicsabrija/15062021/33
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/rtl-kockica-logo.png" group-title="Hrvatska",RTL Kockica
+http://zvjerka.com:1194/subasicsabrija/15062021/34
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL Living" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Living_logo.png" group-title="Hrvatska",RTL Living
+http://zvjerka.com:1194/subasicsabrija/15062021/35
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL PASSION" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTL_Passion_logo.png" group-title="Hrvatska",RTL PASSION
+http://zvjerka.com:1194/subasicsabrija/15062021/36
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="Doma TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/doma.png" group-title="Hrvatska",Doma TV
+http://zvjerka.com:1194/subasicsabrija/15062021/37
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="Diva" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/10.%20DIVA.png" group-title="Hrvatska",Diva
+http://zvjerka.com:1194/subasicsabrija/15062021/38
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/27.%20N1%20HR.png" group-title="Hrvatska",N1 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/39
+#EXTINF:-1 tvg-id="cmc" tvg-name="CMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CMC_TV_logo.png" group-title="Hrvatska",CMC
+http://zvjerka.com:1194/subasicsabrija/15062021/40
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="Slavonska televizija" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONE%20ZA%20PANELA/SlavonskaTelevizija.png" group-title="Hrvatska",Slavonska televizija
+http://zvjerka.com:1194/subasicsabrija/15062021/41
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="Laudato TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/23.%20LAUDATO%20TV.png" group-title="Hrvatska",Laudato TV
+http://zvjerka.com:1194/subasicsabrija/15062021/42
+#EXTINF:-1 tvg-id="jabukatv" tvg-name="Jabuka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/25.%20JABUKA%20TV.png" group-title="Hrvatska",Jabuka TV
+http://zvjerka.com:1194/subasicsabrija/15062021/43
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV Valentino" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/OTV%20VALENTINO.png" group-title="Hrvatska",OTV Valentino
+http://zvjerka.com:1194/subasicsabrija/15062021/44
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/63.%20Z1.png" group-title="Hrvatska",Z1
+http://zvjerka.com:1194/subasicsabrija/15062021/45
+#EXTINF:-1 tvg-id="ostv" tvg-name="Osjecka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/64.%20OSJECKA%20TV.png" group-title="Hrvatska",Osjecka TV
+http://zvjerka.com:1194/subasicsabrija/15062021/46
+#EXTINF:-1 tvg-id="" tvg-name="Banovina TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/5.%20banovina.png" group-title="Hrvatska",Banovina TV
+http://zvjerka.com:1194/subasicsabrija/15062021/47
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="Vinkovacka TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/65.%20VINKOVACKA%20TV.png" group-title="Hrvatska",Vinkovacka TV
+http://zvjerka.com:1194/subasicsabrija/15062021/48
+#EXTINF:-1 tvg-id="" tvg-name="Bosna i Hercegovina" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/BiH.png" group-title="Bosna i Hercegovina",Bosna i Hercegovina
+http://zvjerka.com:1194/subasicsabrija/15062021/49
+#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-name="Al Jazeera Balkans" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/1.%20al%20jazeera.png" group-title="Bosna i Hercegovina",Al Jazeera Balkans
+http://zvjerka.com:1194/subasicsabrija/15062021/50
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/48.%20RTRS.png" group-title="Bosna i Hercegovina",RTRS
+http://zvjerka.com:1194/subasicsabrija/15062021/51
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/6.%20BHT.png" group-title="Bosna i Hercegovina",BHT 1
+http://zvjerka.com:1194/subasicsabrija/15062021/52
+#EXTINF:-1 tvg-id="ftv" tvg-name="FTV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/13.%20FTV.png" group-title="Bosna i Hercegovina",FTV
+http://zvjerka.com:1194/subasicsabrija/15062021/53
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/3.%20ATV.png" group-title="Bosna i Hercegovina",ATV
+http://zvjerka.com:1194/subasicsabrija/15062021/54
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="Nova BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/31.%20nova%20bih.png" group-title="Bosna i Hercegovina",Nova BiH
+http://zvjerka.com:1194/subasicsabrija/15062021/55
+#EXTINF:-1 tvg-id="pink-bih" tvg-name="Pink BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/75.%20PINK%20BIH.jpg" group-title="Bosna i Hercegovina",Pink BiH
+http://zvjerka.com:1194/subasicsabrija/15062021/56
+#EXTINF:-1 tvg-id="obn" tvg-name="OBN" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/34.%20OBN.png" group-title="Bosna i Hercegovina",OBN
+http://zvjerka.com:1194/subasicsabrija/15062021/57
+#EXTINF:-1 tvg-id="face-tv" tvg-name="Face Tv" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/12.%20FACE%20TV.png" group-title="Bosna i Hercegovina",Face Tv
+http://zvjerka.com:1194/subasicsabrija/15062021/58
+#EXTINF:-1 tvg-id="bn" tvg-name="BN TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/8.%20BN%20TV.png" group-title="Bosna i Hercegovina",BN TV
+http://zvjerka.com:1194/subasicsabrija/15062021/59
+#EXTINF:-1 tvg-id="bn-music" tvg-name="BN Music" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/7.%20BN%20MUSIC.png" group-title="Bosna i Hercegovina",BN Music
+http://zvjerka.com:1194/subasicsabrija/15062021/60
+#EXTINF:-1 tvg-id="" tvg-name="A1 Islam BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/14.%20A1%20ISLAM.png" group-title="Bosna i Hercegovina",A1 Islam BiH
+http://zvjerka.com:1194/subasicsabrija/15062021/61
+#EXTINF:-1 tvg-id="rtvtk" tvg-name="RTV TK Tuzla" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/RTV_TK_Logo.jpg" group-title="Bosna i Hercegovina",RTV TK Tuzla
+http://zvjerka.com:1194/subasicsabrija/15062021/62
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="Hayat BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/17.%20HAYAT.png" group-title="Bosna i Hercegovina",Hayat BiH
+http://zvjerka.com:1194/subasicsabrija/15062021/63
+#EXTINF:-1 tvg-id="hayat-folk" tvg-name="Hayat Folk" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/HAYAT%20FOLK.png" group-title="Bosna i Hercegovina",Hayat Folk
+http://zvjerka.com:1194/subasicsabrija/15062021/64
+#EXTINF:-1 tvg-id="hayat-music" tvg-name="Hayat Music" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/HAYAT%20MUSIC.png" group-title="Bosna i Hercegovina",Hayat Music
+http://zvjerka.com:1194/subasicsabrija/15062021/65
+#EXTINF:-1 tvg-id="hayat-plus" tvg-name="Hayat Plus" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/18.%20HAYAT%20PLUS.png" group-title="Bosna i Hercegovina",Hayat Plus
+http://zvjerka.com:1194/subasicsabrija/15062021/66
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="Hayatovci" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/hayatovci-logo.png" group-title="Bosna i Hercegovina",Hayatovci
+http://zvjerka.com:1194/subasicsabrija/15062021/67
+#EXTINF:-1 tvg-id="n1" tvg-name="N1 BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/28.%20N1%20BIH.png" group-title="Bosna i Hercegovina",N1 BiH
+http://zvjerka.com:1194/subasicsabrija/15062021/68
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 6" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/Kanal%206.png" group-title="Bosna i Hercegovina",Kanal 6
+http://zvjerka.com:1194/subasicsabrija/15062021/2009
+#EXTINF:-1 tvg-id="" tvg-name="TV Sarajevo" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/58.%20TV%20SARAJEVO.png" group-title="Bosna i Hercegovina",TV Sarajevo
+http://zvjerka.com:1194/subasicsabrija/15062021/69
+#EXTINF:-1 tvg-id="rtv-slon" tvg-name="RTV Slon Extra" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/59.%20RTV%20SLON%20EXTRA.png" group-title="Bosna i Hercegovina",RTV Slon Extra
+http://zvjerka.com:1194/subasicsabrija/15062021/70
+#EXTINF:-1 tvg-id="kanal-3-prnjavor" tvg-name="K3 Prnjavor" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/60.%20K3.png" group-title="Bosna i Hercegovina",K3 Prnjavor
+http://zvjerka.com:1194/subasicsabrija/15062021/71
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/61.%20TV1.png" group-title="Bosna i Hercegovina",TV1
+http://zvjerka.com:1194/subasicsabrija/15062021/72
+#EXTINF:-1 tvg-id="rtv-usk" tvg-name="USK" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/62.%20USK.png" group-title="Bosna i Hercegovina",USK
+http://zvjerka.com:1194/subasicsabrija/15062021/73
+#EXTINF:-1 tvg-id="rtv-ze" tvg-name="Zenica TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/63.%20Z1.png" group-title="Bosna i Hercegovina",Zenica TV
+http://zvjerka.com:1194/subasicsabrija/15062021/74
+#EXTINF:-1 tvg-id="" tvg-name="Posavina TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/posavina%20tv.png" group-title="Bosna i Hercegovina",Posavina TV
+http://zvjerka.com:1194/subasicsabrija/15062021/75
+#EXTINF:-1 tvg-id="" tvg-name="Herceg Bosna TV" tvg-logo="https://mediadaily.biz/wp-content/uploads/2019/07/rtv-herceg-bosne.png" group-title="Bosna i Hercegovina",Herceg Bosna TV
+http://zvjerka.com:1194/subasicsabrija/15062021/76
+#EXTINF:-1 tvg-id="" tvg-name="Crna Gora" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Crna%20Gora.png" group-title="Crna Gora",Crna Gora
+http://zvjerka.com:1194/subasicsabrija/15062021/77
+#EXTINF:-1 tvg-id="tvcg-sat" tvg-name="RTCG Sat" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/39.%20RTCG%20SAT.png" group-title="Crna Gora",RTCG Sat
+http://zvjerka.com:1194/subasicsabrija/15062021/78
+#EXTINF:-1 tvg-id="tvcg1" tvg-name="RTCG 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/40.%20RTCG%201.png" group-title="Crna Gora",RTCG 1
+http://zvjerka.com:1194/subasicsabrija/15062021/79
+#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/41.%20RTCG%202.png" group-title="Crna Gora",RTCG 2
+http://zvjerka.com:1194/subasicsabrija/15062021/80
+#EXTINF:-1 tvg-id="prva-tv-cg" tvg-name="Prva TV CG" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/42.%20prva%20tv%20cg.png" group-title="Crna Gora",Prva TV CG
+http://zvjerka.com:1194/subasicsabrija/15062021/81
+#EXTINF:-1 tvg-id="pink-m" tvg-name="Pink M" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/76.%20PINK%20M.png" group-title="Crna Gora",Pink M
+http://zvjerka.com:1194/subasicsabrija/15062021/82
+#EXTINF:-1 tvg-id="nova-m" tvg-name="Nova M" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/32.%20NOVA%20TV.png" group-title="Crna Gora",Nova M
+http://zvjerka.com:1194/subasicsabrija/15062021/83
+#EXTINF:-1 tvg-id="tv-vijesti" tvg-name="TV Vijesti" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/43.%20VIJESTI%20CG.png" group-title="Crna Gora",TV Vijesti
+http://zvjerka.com:1194/subasicsabrija/15062021/84
+#EXTINF:-1 tvg-id="" tvg-name="Edukativni" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Education.png" group-title="Edukativni",Edukativni
+http://zvjerka.com:1194/subasicsabrija/15062021/85
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/24kitchen_bg.png" group-title="Edukativni",24 Kitchen
+http://zvjerka.com:1194/subasicsabrija/15062021/86
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/ANIMAL%20PLANET.png" group-title="Edukativni",Animal Planet
+http://zvjerka.com:1194/subasicsabrija/15062021/87
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS Reality" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/9.%20CBS%20REALITY.png" group-title="Edukativni",CBS Reality
+http://zvjerka.com:1194/subasicsabrija/15062021/88
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/1.%20CNN.png" group-title="Edukativni",CNN
+http://zvjerka.com:1194/subasicsabrija/15062021/89
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime & Investigation" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/CRIME%20INVESTIGATION.jpg" group-title="Edukativni",Crime & Investigation
+http://zvjerka.com:1194/subasicsabrija/15062021/90
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/DA%20VINCI%20LEARNING%20ok.png" group-title="Edukativni",Da Vinci Learning
+http://zvjerka.com:1194/subasicsabrija/15062021/91
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery Channel" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/DISCOVERY%20CHANNEL.png" group-title="Edukativni",Discovery Channel
+http://zvjerka.com:1194/subasicsabrija/15062021/92
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Discovery ID" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/ID%20DISCOVERY.png" group-title="Edukativni",Discovery ID
+http://zvjerka.com:1194/subasicsabrija/15062021/93
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/DISCOVERY%20SCIENCE.png" group-title="Edukativni",Discovery Science HD
+http://zvjerka.com:1194/subasicsabrija/15062021/94
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="Discovery TLC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/tlc-logo.png" group-title="Edukativni",Discovery TLC
+http://zvjerka.com:1194/subasicsabrija/15062021/96
+#EXTINF:-1 tvg-id="" tvg-name="Fine Living" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/00/Fine_Living_%282016-.n.v.%29.png/revision/latest?cb=20180302191111" group-title="Edukativni",Fine Living
+http://zvjerka.com:1194/subasicsabrija/15062021/4435
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBOX" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/10.%20DOCU%20BOX%20OK.png" group-title="Edukativni",DocuBOX
+http://zvjerka.com:1194/subasicsabrija/15062021/97
+#EXTINF:-1 tvg-id="planet-earth" tvg-name="Planet Earth" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/11.%20planet%20earth.png" group-title="Edukativni",Planet Earth
+http://zvjerka.com:1194/subasicsabrija/15062021/98
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/12.%20BBC%20EARTH.png" group-title="Edukativni",BBC Earth
+http://zvjerka.com:1194/subasicsabrija/15062021/99
+#EXTINF:-1 tvg-id="history-channel" tvg-name="History Channel" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/14.%20History%20channwl.png" group-title="Edukativni",History Channel
+http://zvjerka.com:1194/subasicsabrija/15062021/100
+#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History Channel 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/13.%20history%202.png" group-title="Edukativni",History Channel 2
+http://zvjerka.com:1194/subasicsabrija/15062021/101
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/16.%20NatGeo.png" group-title="Edukativni",National Geographic
+http://zvjerka.com:1194/subasicsabrija/15062021/103
+#EXTINF:-1 tvg-id="" tvg-name="DTX Discovery" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/DTX.png" group-title="Edukativni",DTX Discovery
+http://zvjerka.com:1194/subasicsabrija/15062021/2012
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/travel-channel-logo.png" group-title="Edukativni",Travel Channel
+http://zvjerka.com:1194/subasicsabrija/15062021/104
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explore" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/17.%20Viasat%20Explore.png" group-title="Edukativni",Viasat Explore
+http://zvjerka.com:1194/subasicsabrija/15062021/105
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/18.%20VIASAT%20HISTORY%20OK.png" group-title="Edukativni",Viasat History
+http://zvjerka.com:1194/subasicsabrija/15062021/106
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Education%20UBACENO/19.%20Viasat%20Nature.png" group-title="Edukativni",Viasat Nature
+http://zvjerka.com:1194/subasicsabrija/15062021/107
+#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-name="Poljoprivredna TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="Edukativni",Poljoprivredna TV
+http://zvjerka.com:1194/subasicsabrija/15062021/108
+#EXTINF:-1 tvg-id="" tvg-name="LUXE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luxe-TV-Logo.svg/1280px-Luxe-TV-Logo.svg.png" group-title="Edukativni",LUXE TV
+http://zvjerka.com:1194/subasicsabrija/15062021/6589
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Trip" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngeXIbIbnAK_2pujSjnu6uQ_w4kyFxpE_sXYgyY=s900-c-k-c0x00ffffff-no-rj" group-title="Edukativni",Balkan Trip
+http://zvjerka.com:1194/subasicsabrija/15062021/9070
+#EXTINF:-1 tvg-id="" tvg-name="Sport" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Sport.png" group-title="Sport",Sport
+http://zvjerka.com:1194/subasicsabrija/15062021/109
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport (test)" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Nova%20sport.jpg" group-title="Sport",Nova Sport (test)
+http://zvjerka.com:1194/subasicsabrija/15062021/110
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1
+http://zvjerka.com:1194/subasicsabrija/15062021/111
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="Arena Sport 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2
+http://zvjerka.com:1194/subasicsabrija/15062021/112
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3
+http://zvjerka.com:1194/subasicsabrija/15062021/113
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4
+http://zvjerka.com:1194/subasicsabrija/15062021/114
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="Arena Sport 5" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5
+http://zvjerka.com:1194/subasicsabrija/15062021/115
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="Arena Sport 1 Premium (TEST)" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 Premium (TEST)
+http://zvjerka.com:1194/subasicsabrija/15062021/116
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="Arena Sport 2 Premium (TEST)" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 Premium (TEST)
+http://zvjerka.com:1194/subasicsabrija/15062021/117
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="Arena Sport 3 Premium (TEST)" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 Premium (TEST)
+http://zvjerka.com:1194/subasicsabrija/15062021/118
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 SR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 SR
+http://zvjerka.com:1194/subasicsabrija/15062021/9649
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 SR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 SR
+http://zvjerka.com:1194/subasicsabrija/15062021/9650
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 SR" tvg-logo="" group-title="Sport",Arena Sport 3 SR
+http://zvjerka.com:1194/subasicsabrija/15062021/9651
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 SD" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4 SD
+http://zvjerka.com:1194/subasicsabrija/15062021/119
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/120
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena2.png" group-title="Sport",Arena Sport 2 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/121
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena3.png" group-title="Sport",Arena Sport 3 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/122
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena4.png" group-title="Sport",Arena Sport 4 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/123
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena5.png" group-title="Sport",Arena Sport 5 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/124
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/arena6_logo.png" group-title="Sport",Arena Sport 6 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/125
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="Arena Sport Premier Liga BiH" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport Premier Liga BiH
+http://zvjerka.com:1194/subasicsabrija/15062021/126
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 Bar" tvg-logo="http://ikonice.zvjerka.com/ikonice/domaci/dazn%20bar.png" group-title="Sport",DAZN 1 Bar
+http://zvjerka.com:1194/subasicsabrija/15062021/130
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 Bar" tvg-logo="http://ikonice.zvjerka.com/ikonice/domaci/dazn%20bar.png" group-title="Sport",DAZN 2 Bar
+http://zvjerka.com:1194/subasicsabrija/15062021/131
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/25.%20FOX%20SPORT%201.png" group-title="Sport",FOX Sports 1
+http://zvjerka.com:1194/subasicsabrija/15062021/140
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/25.%20FOX%20SPORT%201.png" group-title="Sport",FOX Sports 2
+http://zvjerka.com:1194/subasicsabrija/15062021/141
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/25.%20FOX%20SPORT%201.png" group-title="Sport",FOX Sports 3
+http://zvjerka.com:1194/subasicsabrija/15062021/142
+#EXTINF:-1 tvg-id="eurosport" tvg-name="EUROSPORT 1 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/British-Eurosport%201%20hd.png" group-title="Sport",EUROSPORT 1 HD
+http://zvjerka.com:1194/subasicsabrija/15062021/143
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/Eurosport_2_HD.png" group-title="Sport",EUROSPORT 2 HD
+http://zvjerka.com:1194/subasicsabrija/15062021/144
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/NBA_TV.png" group-title="Sport",NBA TV
+http://zvjerka.com:1194/subasicsabrija/15062021/145
+#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/zvezda.jpg" group-title="Sport",Zvezda TV
+http://zvjerka.com:1194/subasicsabrija/15062021/6591
+#EXTINF:-1 tvg-id="" tvg-name="Partizan TV" tvg-logo="https://www.partizan.tv/tv_00000.png" group-title="Sport",Partizan TV
+http://zvjerka.com:1194/subasicsabrija/15062021/6592
+#EXTINF:-1 tvg-id="fightchannel" tvg-name="Fight Channel" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fight-channel-logo.png" group-title="Sport",Fight Channel
+http://zvjerka.com:1194/subasicsabrija/15062021/146
+#EXTINF:-1 tvg-id="" tvg-name="UFC/FightBox" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/UFC.jpg" group-title="Sport",UFC/FightBox
+http://zvjerka.com:1194/subasicsabrija/15062021/2010
+#EXTINF:-1 tvg-id="hntv" tvg-name="HNTV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/HNTV.jpg" group-title="Sport",HNTV
+http://zvjerka.com:1194/subasicsabrija/15062021/147
+#EXTINF:-1 tvg-id="kreator-tv" tvg-name="Kreator TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/logo-kreator-tv-3d.png" group-title="Sport",Kreator TV
+http://zvjerka.com:1194/subasicsabrija/15062021/148
+#EXTINF:-1 tvg-id="" tvg-name="Lov i Ribolov" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONE%20ZA%20PANELA/Lov%20i%20ribolov%20ok.png" group-title="Sport",Lov i Ribolov
+http://zvjerka.com:1194/subasicsabrija/15062021/149
+#EXTINF:-1 tvg-id="" tvg-name="Sport Digital HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/domaci/sport%20digital%20hd.png" group-title="Sport",Sport Digital HD
+http://zvjerka.com:1194/subasicsabrija/15062021/150
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 1 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/151
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 2 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/152
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 3 HR
+http://zvjerka.com:1194/subasicsabrija/15062021/153
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 SR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 1 SR
+http://zvjerka.com:1194/subasicsabrija/15062021/154
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 SR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 2 SR
+http://zvjerka.com:1194/subasicsabrija/15062021/155
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 SR" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 3 SR
+http://zvjerka.com:1194/subasicsabrija/15062021/156
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 4
+http://zvjerka.com:1194/subasicsabrija/15062021/157
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 5
+http://zvjerka.com:1194/subasicsabrija/15062021/158
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 6
+http://zvjerka.com:1194/subasicsabrija/15062021/159
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 7
+http://zvjerka.com:1194/subasicsabrija/15062021/160
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 8
+http://zvjerka.com:1194/subasicsabrija/15062021/161
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 9" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 9
+http://zvjerka.com:1194/subasicsabrija/15062021/162
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 10" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub 10
+http://zvjerka.com:1194/subasicsabrija/15062021/163
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Start" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/SportKlub%20logo%206%20hd.png" group-title="Sport",Sport Klub Start
+http://zvjerka.com:1194/subasicsabrija/15062021/164
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/real%20madrid%20tv.png" group-title="Sport",Real Madrid TV
+http://zvjerka.com:1194/subasicsabrija/15062021/165
+#EXTINF:-1 tvg-id="" tvg-name="Barca TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/barca%20tv.png" group-title="Sport",Barca TV
+http://zvjerka.com:1194/subasicsabrija/15062021/166
+#EXTINF:-1 tvg-id="" tvg-name="Bayern TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/bayern%20tv.png" group-title="Sport",Bayern TV
+http://zvjerka.com:1194/subasicsabrija/15062021/167
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SPORT%201.png" group-title="Sport",Sport 1 HD
+http://zvjerka.com:1194/subasicsabrija/15062021/168
+#EXTINF:-1 tvg-id="" tvg-name="Sportska TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/sportska%20tv.png" group-title="Sport",Sportska TV
+http://zvjerka.com:1194/subasicsabrija/15062021/169
+#EXTINF:-1 tvg-id="" tvg-name="SOS" tvg-logo="http://ikonice.zvjerka.com/ikonice/Sportski/sos_kanal.png" group-title="Sport",SOS
+http://zvjerka.com:1194/subasicsabrija/15062021/170
+#EXTINF:-1 tvg-id="" tvg-name="Super tennis" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERTENNIS.png" group-title="Sport",Super tennis
+http://zvjerka.com:1194/subasicsabrija/15062021/171
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax.png" group-title="Film",Cinemax 1
+http://zvjerka.com:1194/subasicsabrija/15062021/173
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinemax-2.png" group-title="Film",Cinemax 2
+http://zvjerka.com:1194/subasicsabrija/15062021/174
+#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="Cinestar Action" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_action_logo.png" group-title="Film",Cinestar Action
+http://zvjerka.com:1194/subasicsabrija/15062021/175
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CineStar Fantasy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinestartv_fantasy_logo.png" group-title="Film",CineStar Fantasy
+http://zvjerka.com:1194/subasicsabrija/15062021/176
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CineStar Premiere 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_1_logo.png" group-title="Film",CineStar Premiere 1
+http://zvjerka.com:1194/subasicsabrija/15062021/177
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CineStar Premiere 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="Film",CineStar Premiere 2
+http://zvjerka.com:1194/subasicsabrija/15062021/178
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="CineStar TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Cinestar_TV1_logo.png" group-title="Film",CineStar TV
+http://zvjerka.com:1194/subasicsabrija/15062021/179
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar TV 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinestar_tv2_logo.png" group-title="Film",Cinestar TV 2
+http://zvjerka.com:1194/subasicsabrija/15062021/8823
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar Comedy" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/cinestartv_comedy_logo.png" group-title="Film",Cinestar Comedy
+http://zvjerka.com:1194/subasicsabrija/15062021/180
+#EXTINF:-1 tvg-id="cinemania" tvg-name="Cinemania" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/cinemania-logo.png" group-title="Film",Cinemania
+http://zvjerka.com:1194/subasicsabrija/15062021/181
+#EXTINF:-1 tvg-id="film-klub" tvg-name="Film Klub" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/14.%20FILM%20KLUB.png" group-title="Film",Film Klub
+http://zvjerka.com:1194/subasicsabrija/15062021/182
+#EXTINF:-1 tvg-id="filmbox-hd" tvg-name="FILMBOX" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/filmbox_extra_pl_hd.png" group-title="Film",FILMBOX
+http://zvjerka.com:1194/subasicsabrija/15062021/183
+#EXTINF:-1 tvg-id="fox" tvg-name="FOX" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-logo.png" group-title="Film",FOX
+http://zvjerka.com:1194/subasicsabrija/15062021/184
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="FOX Crime" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/17.%20FOX%20CRIME.png" group-title="Film",FOX Crime
+http://zvjerka.com:1194/subasicsabrija/15062021/185
+#EXTINF:-1 tvg-id="fox-life" tvg-name="FOX Life" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox_life_ru.png" group-title="Film",FOX Life
+http://zvjerka.com:1194/subasicsabrija/15062021/186
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="FOX Movies" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/fox-movies-logo.png" group-title="Film",FOX Movies
+http://zvjerka.com:1194/subasicsabrija/15062021/187
+#EXTINF:-1 tvg-id="" tvg-name="FOX Business" tvg-logo="http://ikonice.zvjerka.com/ikonice/Nove/FOX%20Business.jpg" group-title="Film",FOX Business
+http://zvjerka.com:1194/subasicsabrija/15062021/188
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO Adria
+http://zvjerka.com:1194/subasicsabrija/15062021/189
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO 2 HD
+http://zvjerka.com:1194/subasicsabrija/15062021/190
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 HD" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO 3 HD
+http://zvjerka.com:1194/subasicsabrija/15062021/191
+#EXTINF:-1 tvg-id="" tvg-name="HBO GO" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Slovenia%20UBACENO/21.%20HBO.png" group-title="Film",HBO GO
+http://zvjerka.com:1194/subasicsabrija/15062021/8827
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 1" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 1
+http://zvjerka.com:1194/subasicsabrija/15062021/8824
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 2
+http://zvjerka.com:1194/subasicsabrija/15062021/8825
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 4" tvg-logo="https://i.ytimg.com/vi/vw8pgHI0g_I/maxresdefault.jpg" group-title="Film",Nova Cinema 4
+http://zvjerka.com:1194/subasicsabrija/15062021/8826
+#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SuperStar (TEST)" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/SUPERSTAR.png" group-title="Film",SuperStar (TEST)
+http://zvjerka.com:1194/subasicsabrija/15062021/192
+#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/25.%20KINO%20TV.png" group-title="Film",Kino TV
+http://zvjerka.com:1194/subasicsabrija/15062021/193
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="Klasik Tv" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/KlasikTV_logo.png" group-title="Film",Klasik Tv
+http://zvjerka.com:1194/subasicsabrija/15062021/194
+#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/27.%20M1%20FILM.png" group-title="Film",M1 Film
+http://zvjerka.com:1194/subasicsabrija/15062021/195
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PickBox TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PICKBOX.png" group-title="Film",PickBox TV
+http://zvjerka.com:1194/subasicsabrija/15062021/196
+#EXTINF:-1 tvg-id="scifi" tvg-name="SciFi" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/scifi_adria_logo.jpg" group-title="Film",SciFi
+http://zvjerka.com:1194/subasicsabrija/15062021/197
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/amc_logo_2016.png" group-title="Film",AMC
+http://zvjerka.com:1194/subasicsabrija/15062021/198
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Film%20UBACENO/1.%20AXN.png" group-title="Film",AXN
+http://zvjerka.com:1194/subasicsabrija/15062021/199
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/axn_spin_logo.png" group-title="Film",AXN Spin
+http://zvjerka.com:1194/subasicsabrija/15062021/200
+#EXTINF:-1 tvg-id="vh1-classic-europe" tvg-name="VH1 Classic TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/vh1-classic-logo.png" group-title="USA/UK",VH1 Classic TV
+http://zvjerka.com:1194/subasicsabrija/15062021/201
+#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="Comedy Central Extra" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/comedy-centra-extra-logo.png" group-title="Film",Comedy Central Extra
+http://zvjerka.com:1194/subasicsabrija/15062021/202
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/viasat-tv-1000.png" group-title="Film",TV 1000
+http://zvjerka.com:1194/subasicsabrija/15062021/204
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 1
+http://zvjerka.com:1194/subasicsabrija/15062021/205
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 2
+http://zvjerka.com:1194/subasicsabrija/15062021/206
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 3
+http://zvjerka.com:1194/subasicsabrija/15062021/207
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 4
+http://zvjerka.com:1194/subasicsabrija/15062021/208
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 5" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 5
+http://zvjerka.com:1194/subasicsabrija/15062021/209
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 6" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 6
+http://zvjerka.com:1194/subasicsabrija/15062021/210
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 7" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 7
+http://zvjerka.com:1194/subasicsabrija/15062021/211
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 8" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 8
+http://zvjerka.com:1194/subasicsabrija/15062021/212
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select 9" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select 9
+http://zvjerka.com:1194/subasicsabrija/15062021/213
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Horror" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Horror
+http://zvjerka.com:1194/subasicsabrija/15062021/214
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Kino" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Kino
+http://zvjerka.com:1194/subasicsabrija/15062021/215
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Premium" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Premium
+http://zvjerka.com:1194/subasicsabrija/15062021/216
+#EXTINF:-1 tvg-id="" tvg-name="CroMax Select Gold" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/CRO%20MAX%20SELECT.jpg" group-title="Film",CroMax Select Gold
+http://zvjerka.com:1194/subasicsabrija/15062021/217
+#EXTINF:-1 tvg-id="" tvg-name="Muzika" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Music.jpg" group-title="Muzika",Muzika
+http://zvjerka.com:1194/subasicsabrija/15062021/218
+#EXTINF:-1 tvg-id="dmsat" tvg-name="DM Sat" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/7.%20dm%20sat.jpg" group-title="Muzika",DM Sat
+http://zvjerka.com:1194/subasicsabrija/15062021/219
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/8.%20GRAND%202.png" group-title="Muzika",Grand 2
+http://zvjerka.com:1194/subasicsabrija/15062021/220
+#EXTINF:-1 tvg-id="grand-narodna-tv" tvg-name="Grand Narodna TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/9.%20grand%20televizija.png" group-title="Muzika",Grand Narodna TV
+http://zvjerka.com:1194/subasicsabrija/15062021/221
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="Izvorna TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/IzvornaTV_logo.png" group-title="Muzika",Izvorna TV
+http://zvjerka.com:1194/subasicsabrija/15062021/222
+#EXTINF:-1 tvg-id="jugoton-tv" tvg-name="Jugoton TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/jugoton-tv-logo.png" group-title="Muzika",Jugoton TV
+http://zvjerka.com:1194/subasicsabrija/15062021/223
+#EXTINF:-1 tvg-id="kopernikus" tvg-name="K::CN 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/68.%20KCN.png" group-title="Muzika",K::CN 1
+http://zvjerka.com:1194/subasicsabrija/15062021/224
+#EXTINF:-1 tvg-id="" tvg-name="K::CN 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/68.%20KCN.png" group-title="Muzika",K::CN 2
+http://zvjerka.com:1194/subasicsabrija/15062021/225
+#EXTINF:-1 tvg-id="" tvg-name="K::CN 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/68.%20KCN.png" group-title="Muzika",K::CN 3
+http://zvjerka.com:1194/subasicsabrija/15062021/226
+#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/71.%20SEVDAH%20TV.png" group-title="Muzika",Sevdah TV
+http://zvjerka.com:1194/subasicsabrija/15062021/227
+#EXTINF:-1 tvg-id="" tvg-name="Moj Kanal BiH" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/12.%20MOJ%20KANAL%20OK.png" group-title="Muzika",Moj Kanal BiH
+http://zvjerka.com:1194/subasicsabrija/15062021/228
+#EXTINF:-1 tvg-id="mtv-adria" tvg-name="MTV Adria" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/4.%20MTV%20ADRIA.png" group-title="Muzika",MTV Adria
+http://zvjerka.com:1194/subasicsabrija/15062021/229
+#EXTINF:-1 tvg-id="mtv-base" tvg-name="MTV Base" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/13.%20MTV%20BASE.jpg" group-title="Muzika",MTV Base
+http://zvjerka.com:1194/subasicsabrija/15062021/230
+#EXTINF:-1 tvg-id="" tvg-name="Narodna TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/14.%20NARODNA%20TV.jpg" group-title="Muzika",Narodna TV
+http://zvjerka.com:1194/subasicsabrija/15062021/231
+#EXTINF:-1 tvg-id="mtv-hits" tvg-name="MTV Hits" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/15.%20MTV%20HITS.png" group-title="Muzika",MTV Hits
+http://zvjerka.com:1194/subasicsabrija/15062021/232
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Music%20UBACENO/16.%20Balkanika.png" group-title="Muzika",Balkanika TV
+http://zvjerka.com:1194/subasicsabrija/15062021/233
+#EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/planeta_tv.png" group-title="Muzika",Planeta TV
+http://zvjerka.com:1194/subasicsabrija/15062021/234
+#EXTINF:-1 tvg-id="" tvg-name="IDJ TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Muzicki/IDJTV.jpg" group-title="Muzika",IDJ TV
+http://zvjerka.com:1194/subasicsabrija/15062021/235
+#EXTINF:-1 tvg-id="" tvg-name="Duga TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv_duga_plus.png" group-title="Muzika",Duga TV
+http://zvjerka.com:1194/subasicsabrija/15062021/236
+#EXTINF:-1 tvg-id="" tvg-name="Djeciji" tvg-logo="http://ikonice.zvjerka.com/ikonice/NASLOVNE%20ZA%20KATEGORIJE/Kids.jpg" group-title="Djeciji",Djeciji
+http://zvjerka.com:1194/subasicsabrija/15062021/237
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry 24 h" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/4.%20tom%20and%20jerry.png" group-title="Djeciji",Tom and Jerry 24 h
+http://zvjerka.com:1194/subasicsabrija/15062021/238
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/USA%20UBACENO/7.%20Cartoon%20network.png" group-title="Djeciji",Cartoon Network
+http://zvjerka.com:1194/subasicsabrija/15062021/239
+#EXTINF:-1 tvg-id="babytv" tvg-name="BABY TV" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/babatv-logo.png" group-title="Djeciji",BABY TV
+http://zvjerka.com:1194/subasicsabrija/15062021/240
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/boomerang_it_logo.png" group-title="Djeciji",Boomerang
+http://zvjerka.com:1194/subasicsabrija/15062021/241
+#EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney channel" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dje%c4%8diji/Disney_Channel_2014.png" group-title="Djeciji",Disney channel
+http://zvjerka.com:1194/subasicsabrija/15062021/242
+#EXTINF:-1 tvg-id="" tvg-name="Mini Ultra TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/9.%20MINI%20ULTRA.jpg" group-title="Djeciji",Mini Ultra TV
+http://zvjerka.com:1194/subasicsabrija/15062021/243
+#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/minimax-logo.png" group-title="Djeciji",Minimax
+http://zvjerka.com:1194/subasicsabrija/15062021/244
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/11.%20NICK%20JR.png" group-title="Djeciji",Nick Jr.
+http://zvjerka.com:1194/subasicsabrija/15062021/245
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dje%c4%8diji/Nickelodeon-logo.png" group-title="Djeciji",Nickelodeon
+http://zvjerka.com:1194/subasicsabrija/15062021/246
+#EXTINF:-1 tvg-id="" tvg-name="Ultra TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/Dje%c4%8diji/Ultra-tv-logo.png" group-title="Djeciji",Ultra TV
+http://zvjerka.com:1194/subasicsabrija/15062021/247
+#EXTINF:-1 tvg-id="tnt-kids" tvg-name="TNT Kids" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/TNT.png" group-title="Djeciji",TNT Kids
+http://zvjerka.com:1194/subasicsabrija/15062021/248
+#EXTINF:-1 tvg-id="pikaboo" tvg-name="Pikaboo" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pikaboo_logo.png" group-title="Djeciji",Pikaboo
+http://zvjerka.com:1194/subasicsabrija/15062021/249
+#EXTINF:-1 tvg-id="" tvg-name="Toggo Plus" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Djeciji%20UBA%c4%8cENO%20IMA%20VISKA/TOGGO%20PLUS.png" group-title="Djeciji",Toggo Plus
+http://zvjerka.com:1194/subasicsabrija/15062021/250
+#EXTINF:-1 tvg-id="" tvg-name="Tropik TV" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TROPIK-TV.png" group-title="Djeciji",Tropik TV
+http://zvjerka.com:1194/subasicsabrija/15062021/251
+#EXTINF:-1 tvg-id="" tvg-name="Masa i Medo" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Masa%20i%20Medo.png" group-title="Djeciji",Masa i Medo
+http://zvjerka.com:1194/subasicsabrija/15062021/252
+#EXTINF:-1 tvg-id="" tvg-name="Sundjer Bob" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Sundjer%20Bob.png" group-title="Djeciji",Sundjer Bob
+http://zvjerka.com:1194/subasicsabrija/15062021/253
+#EXTINF:-1 tvg-id="" tvg-name="Vavoom TV" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/Vavoom.png" group-title="Djeciji",Vavoom TV
+http://zvjerka.com:1194/subasicsabrija/15062021/254
+#EXTINF:-1 tvg-id="" tvg-name="Pink" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/72.%20PINK%201.png" group-title="Pink",Pink
+http://zvjerka.com:1194/subasicsabrija/15062021/255
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 1
+http://zvjerka.com:1194/subasicsabrija/15062021/256
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 2
+http://zvjerka.com:1194/subasicsabrija/15062021/257
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 3" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 3
+http://zvjerka.com:1194/subasicsabrija/15062021/258
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga 4" tvg-logo="http://ikonice.zvjerka.com/ikonice/IKONICE%20KOJE%20NEDOSTAJU/PINK%20ZADRUGA.png" group-title="Pink",Zadruga 4
+http://zvjerka.com:1194/subasicsabrija/15062021/259
+#EXTINF:-1 tvg-id="pink-action" tvg-name="Pink Action" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-action-logo.png" group-title="Pink",Pink Action
+http://zvjerka.com:1194/subasicsabrija/15062021/260
+#EXTINF:-1 tvg-id="pink-comedy" tvg-name="Pink Comedy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkComedy.png" group-title="Pink",Pink Comedy
+http://zvjerka.com:1194/subasicsabrija/15062021/261
+#EXTINF:-1 tvg-id="pink-action-3" tvg-name="Pink Crime & Mystery" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/CRIME.png" group-title="Pink",Pink Crime & Mystery
+http://zvjerka.com:1194/subasicsabrija/15062021/262
+#EXTINF:-1 tvg-id="pink-film" tvg-name="Pink Film" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-film-logo.png" group-title="Pink",Pink Film
+http://zvjerka.com:1194/subasicsabrija/15062021/263
+#EXTINF:-1 tvg-id="pink-folk" tvg-name="Pink Folk 1" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/PinkFolk1_SRB.png" group-title="Pink",Pink Folk 1
+http://zvjerka.com:1194/subasicsabrija/15062021/264
+#EXTINF:-1 tvg-id="pink-folk-2" tvg-name="Pink Folk 2" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/Pink_Folk2.png" group-title="Pink",Pink Folk 2
+http://zvjerka.com:1194/subasicsabrija/15062021/265
+#EXTINF:-1 tvg-id="pink-ha-ha" tvg-name="PINK HA HA" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/PINK%20HAHA.png" group-title="Pink",PINK HA HA
+http://zvjerka.com:1194/subasicsabrija/15062021/266
+#EXTINF:-1 tvg-id="pink-kids" tvg-name="Pink Kids" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pink-kids-logo.png" group-title="Pink",Pink Kids
+http://zvjerka.com:1194/subasicsabrija/15062021/267
+#EXTINF:-1 tvg-id="pink-movies" tvg-name="Pink Movies" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/pink-movies-logo.png" group-title="Pink",Pink Movies
+http://zvjerka.com:1194/subasicsabrija/15062021/268
+#EXTINF:-1 tvg-id="pink-music" tvg-name="Pink Music 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkMusic_logo.png" group-title="Pink",Pink Music 1
+http://zvjerka.com:1194/subasicsabrija/15062021/269
+#EXTINF:-1 tvg-id="pink-music-2" tvg-name="Pink Music 2" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkMusic2_logo.png" group-title="Pink",Pink Music 2
+http://zvjerka.com:1194/subasicsabrija/15062021/270
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="Pink Plus" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkPlus.png" group-title="Pink",Pink Plus
+http://zvjerka.com:1194/subasicsabrija/15062021/271
+#EXTINF:-1 tvg-id="pink-premium" tvg-name="Pink Premium" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkPremium.png" group-title="Pink",Pink Premium
+http://zvjerka.com:1194/subasicsabrija/15062021/272
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="Pink Reality" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkReality.png" group-title="Pink",Pink Reality
+http://zvjerka.com:1194/subasicsabrija/15062021/273
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="Pink Romance" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Romance_logo.png" group-title="Pink",Pink Romance
+http://zvjerka.com:1194/subasicsabrija/15062021/274
+#EXTINF:-1 tvg-id="pink-horror" tvg-name="Pink Horror" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/pinkHorror.png" group-title="Pink",Pink Horror
+http://zvjerka.com:1194/subasicsabrija/15062021/275
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="Pink Sci Fi & Fantasy" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_SciFi_Fantasy_logo.png" group-title="Pink",Pink Sci Fi & Fantasy
+http://zvjerka.com:1194/subasicsabrija/15062021/276
+#EXTINF:-1 tvg-id="pink-action-2" tvg-name="Pink Thriler" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Thriller_logo.png" group-title="Pink",Pink Thriler
+http://zvjerka.com:1194/subasicsabrija/15062021/277
+#EXTINF:-1 tvg-id="pink-serije" tvg-name="Pink Serije" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/Pink_Serije_logo.png" group-title="Pink",Pink Serije
+http://zvjerka.com:1194/subasicsabrija/15062021/278
+#EXTINF:-1 tvg-id="pink-show" tvg-name="Pink Show" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkShow.png" group-title="Pink",Pink Show
+http://zvjerka.com:1194/subasicsabrija/15062021/279
+#EXTINF:-1 tvg-id="pink-soap" tvg-name="PINK SOAP" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkSoap_logo2.png" group-title="Pink",PINK SOAP
+http://zvjerka.com:1194/subasicsabrija/15062021/280
+#EXTINF:-1 tvg-id="pink-western" tvg-name="Pink Western" tvg-logo="http://ikonice.zvjerka.com/ikonice/KOMPLETNE%20IKONICE/Domaci%20UBA%c4%8cENO/PINK%20WESTERN.png" group-title="Pink",Pink Western
+http://zvjerka.com:1194/subasicsabrija/15062021/281
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="Pink World Cinema" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkWorldCinema_logo.png" group-title="Pink",Pink World Cinema
+http://zvjerka.com:1194/subasicsabrija/15062021/282
+#EXTINF:-1 tvg-id="pink-zabava" tvg-name="Pink Zabava" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkZabava_logo.png" group-title="Pink",Pink Zabava
+http://zvjerka.com:1194/subasicsabrija/15062021/283
+#EXTINF:-1 tvg-id="pink-bravo" tvg-name="PINK Bravo" tvg-logo="http://ikonice.zvjerka.com/ikonice/PINK/PinkBravo-uzivotv.jpeg" group-title="Pink",PINK Bravo
+http://zvjerka.com:1194/subasicsabrija/15062021/284
+#EXTINF:-1 tvg-id="pink-hits" tvg-name="PINK Hits 1" tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/PinkHits_logo.png" group-title="Pink",PINK Hits 1
+http://zvjerka.com:1194/subasicsabrija/15062021/285
+#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="Pink Kuvar" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Kuvar_logo.png" group-title="Pink",Pink Kuvar
+http://zvjerka.com:1194/subasicsabrija/15062021/286
+#EXTINF:-1 tvg-id="pink-classic" tvg-name="Pink Classic" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-classic-logo.png" group-title="Pink",Pink Classic
+http://zvjerka.com:1194/subasicsabrija/15062021/287
+#EXTINF:-1 tvg-id="pink-extra" tvg-name="Pink Extra" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkExtra.png" group-title="Pink",Pink Extra
+http://zvjerka.com:1194/subasicsabrija/15062021/288
+#EXTINF:-1 tvg-id="pink-family" tvg-name="Pink Family" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-family-logo.png" group-title="Pink",Pink Family
+http://zvjerka.com:1194/subasicsabrija/15062021/289
+#EXTINF:-1 tvg-id="pink-koncert" tvg-name="Pink Koncert" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkKoncert_logo.png" group-title="Pink",Pink Koncert
+http://zvjerka.com:1194/subasicsabrija/15062021/290
+#EXTINF:-1 tvg-id="pink-super-kids" tvg-name="Pink Super Kids" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkSuperKids_logo.png" group-title="Pink",Pink Super Kids
+http://zvjerka.com:1194/subasicsabrija/15062021/291
+#EXTINF:-1 tvg-id="pink-lol" tvg-name="Pink LOL" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LOL.png" group-title="Pink",Pink LOL
+http://zvjerka.com:1194/subasicsabrija/15062021/292
