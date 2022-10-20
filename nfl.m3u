@@ -1,317 +1,317 @@
 #EXTM3U
-#EXTINF:-1,NCAA:  ABC
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433790
-#EXTINF:-1,NCAA:  ACC NETWORK
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433791
-#EXTINF:-1,NCAA:  BIG TEN NETWORK
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433792
-#EXTINF:-1,NCAA:  CBS
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433793
-#EXTINF:-1,NCAA:  CBS SPORTS
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433794
-#EXTINF:-1,NCAA:  CBS SPORTS HQ
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433795
-#EXTINF:-1,NCAA:  ESPN
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433796
-#EXTINF:-1,NCAA:  ESPN2
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433797
-#EXTINF:-1,NCAA:  ESPNU
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433798
-#EXTINF:-1,NCAA:  FOX
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433799
-#EXTINF:-1,NCAA:  FS1
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433800
-#EXTINF:-1,NCAA:  FS2
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433801
-#EXTINF:-1,NCAA:  LONGHORN
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433802
-#EXTINF:-1,NCAA:  MSG
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433803
-#EXTINF:-1,NCAA:  NBC
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433804
-#EXTINF:-1,NCAA:  PAC-12 NETWORK
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433805
-#EXTINF:-1,NCAA: PAC-12 ARIZONA
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/441614
-#EXTINF:-1,NCAA: PAC-12 BAY AREA
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/441615
-#EXTINF:-1,NCAA: PAC-12 LOS ANGELES
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/441616
-#EXTINF:-1,NCAA: PAC-12 MOUNTAIN
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/441617
-#EXTINF:-1,NCAA: PAC-12 OREGON
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/441618
-#EXTINF:-1,NCAA: PAC-12 WASHINGTON
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/441619
-#EXTINF:-1,NCAA:  SEC NETWORK
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433806
-#EXTINF:-1,NCAA:  STADIUM
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433807
 #EXTINF:-1,NFL Network 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/237120
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/237120?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL Network SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/292459
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/292459?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL RedZone 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/237124
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/237124?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL RedZone SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/237126
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/237126?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL:  ESPN - MNF
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/449381
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/449381?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL:  ESPN 2
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/449382
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/449382?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL:  NBC - SNF
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/449383
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/449383?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL:  PRIME - TNF
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/449385
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/449385?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Bears HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433575
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433575?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Bengals HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433578
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433578?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Bills HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433581
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433581?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Broncos HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433584
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433584?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Browns HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433587
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433587?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Buccaneers HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433590
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433590?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Cardinals HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433593
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433593?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Chargers HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433596
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433596?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Chiefs HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433599
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433599?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Colts HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433602
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433602?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Commanders HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433650
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433650?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Cowboys HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433605
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433605?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Dolphins HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433608
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433608?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Eagles HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433611
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433611?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Falcons HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433614
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433614?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-49ers HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433617
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433617?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Giants HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433620
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433620?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Jaguars HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433623
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433623?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Jets HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433626
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433626?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Lions HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433629
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433629?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Packers HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433632
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433632?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Panthers HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433635
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433635?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Patriots HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433638
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433638?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Raiders HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433641
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433641?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Rams HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433644
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433644?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Ravens HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433647
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433647?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Saints HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433653
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433653?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Seahawks HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433656
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433656?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Steelers HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433659
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433659?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Texans HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433662
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433662?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Titans HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433665
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433665?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Vikings HD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433668
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433668?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Bears FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433574
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433574?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Bengals FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433577
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433577?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Bills FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433580
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433580?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Broncos FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433583
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433583?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Browns FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433586
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433586?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Buccaneers FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433589
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433589?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Cardinals FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433592
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433592?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Chargers FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433595
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433595?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Chiefs FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433598
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433598?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Colts FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433601
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433601?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Commanders FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433649
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433649?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Cowboys FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433604
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433604?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Dolphins FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433607
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433607?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Eagles FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433610
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433610?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Falcons FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433613
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433613?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-49ers FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433616
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433616?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Giants FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433619
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433619?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Jaguars FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433622
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433622?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Jets FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433625
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433625?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Lions FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433628
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433628?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Packers FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433631
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433631?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Panthers FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433634
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433634?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Patriots FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433637
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433637?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Raiders FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433640
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433640?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Rams FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433643
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433643?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Ravens FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433646
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433646?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Saints FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433652
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433652?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Seahawks FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433655
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433655?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Steelers FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433658
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433658?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Texans FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433661
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433661?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Titans FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433664
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433664?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Vikings FHD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433667
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433667?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Bears SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433576
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433576?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Bengals SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433579
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433579?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Bills SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433582
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433582?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Broncos SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433585
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433585?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Browns SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433588
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433588?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Buccaneers SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433591
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433591?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Cardinals SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433594
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433594?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Chargers SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433597
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433597?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Chiefs SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433600
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433600?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Colts SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433603
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433603?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Commanders SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433651
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433651?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Cowboys SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433606
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433606?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Dolphins SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433609
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433609?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Eagles SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433612
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433612?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Falcons SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433615
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433615?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-49ers SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433618
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433618?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Giants SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433621
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433621?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Jaguars SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433624
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433624?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Jets SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433627
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433627?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Lions SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433630
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433630?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Packers SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433633
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433633?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Panthers SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433636
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433636?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Patriots SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433639
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433639?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Raiders SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433642
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433642?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Rams SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433645
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433645?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Ravens SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433648
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433648?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Saints SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433654
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433654?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Seahawks SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433657
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433657?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Steelers SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433660
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433660?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Texans SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433663
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433663?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Titans SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433666
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433666?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,US NFL-Vikings SD
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/433669
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433669?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 00:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445787
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445787?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 01:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445788
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445788?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 02:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445789
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445789?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 03:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445790
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445790?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 04:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445791
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445791?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 05:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445792
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445792?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 06:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445793
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445793?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 07:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445794
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445794?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 08:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445795
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445795?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 09:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445796
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445796?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 10:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445797
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445797?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 11:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445798
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445798?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 12:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445799
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445799?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 13:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445800
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445800?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 14:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445801
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445801?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL REPLAY 15:
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/445802
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/445802?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (705) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453882
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453882?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (706) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453883
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453883?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (707)
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453884
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453884?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (708) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453885
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453885?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (709) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453886
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453886?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (710) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453887
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453887?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (711) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453888
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453888?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (712) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453889
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453889?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (713)
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453890
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453890?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (714) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453891
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453891?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (715) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453892
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453892?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (716) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453893
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453893?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (717) 
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453894
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453894?username=Legend&password=QmdhPq6Sb9&type=m3u
 #EXTINF:-1,NFL | (718)
-http://abc123.digital:8080/Legend/QmdhPq6Sb9/453895
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/453895?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  ABC
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433790?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  ACC NETWORK
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433791?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  BIG TEN NETWORK
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433792?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  CBS
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433793?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  CBS SPORTS
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433794?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  CBS SPORTS HQ
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433795?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  ESPN
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433796?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  ESPN2
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433797?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  ESPNU
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433798?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  FOX
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433799?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  FS1
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433800?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  FS2
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433801?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  LONGHORN
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433802?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  MSG
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433803?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  NBC
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433804?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  PAC-12 NETWORK
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433805?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA: PAC-12 ARIZONA
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/441614?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA: PAC-12 BAY AREA
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/441615?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA: PAC-12 LOS ANGELES
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/441616?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA: PAC-12 MOUNTAIN
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/441617?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA: PAC-12 OREGON
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/441618?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA: PAC-12 WASHINGTON
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/441619?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  SEC NETWORK
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433806?username=Legend&password=QmdhPq6Sb9&type=m3u
+#EXTINF:-1,NCAA:  STADIUM
+http://abc123.digital:8080/Legend/QmdhPq6Sb9/433807?username=Legend&password=QmdhPq6Sb9&type=m3u
