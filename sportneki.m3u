@@ -1,0 +1,464 @@
+#EXTINF:-1 tvg-id="######_SPORT_######" tvg-name="###### SPORT ######" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/09/screenshot_54.png?resize=219%2C219" group-title="SPORT" ,###### SPORT ######
+http://bitkananeretvi.net:8000/live.ts?channelId=192&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="Arena Premium 1 (SN)" tvg-name="ARENA S PREMIUM 1" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA S PREMIUM 1
+http://bitkananeretvi.net:8000/live.ts?channelId=23406&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="Arena Premium 2 (SN)" tvg-name="ARENA S PREMIUM 2" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA S PREMIUM 2
+http://bitkananeretvi.net:8000/live.ts?channelId=23312&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="Arena Premium 3 (SN)" tvg-name="ARENA S PREMIUM 3" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA S PREMIUM 3
+http://bitkananeretvi.net:8000/live.ts?channelId=23313&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="Arena Premium 1 (SN)" tvg-name="ARENA S PREMIUM 1." tvg-logo="/noicon.png" group-title="SPORT" ,ARENA S PREMIUM 1.
+http://bitkananeretvi.net:8000/live.ts?channelId=23338&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="Arena Premium 2 (SN)" tvg-name="ARENA S PREMIUM 2." tvg-logo="/noicon.png" group-title="SPORT" ,ARENA S PREMIUM 2.
+http://bitkananeretvi.net:8000/live.ts?channelId=23339&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="Arena Premium 3 (SN)" tvg-name="ARENA S PREMIUM 3." tvg-logo="/noicon.png" group-title="SPORT" ,ARENA S PREMIUM 3.
+http://bitkananeretvi.net:8000/live.ts?channelId=23340&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-1x2" tvg-name="ARENA SPORT 1 x 2" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport1.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 1 x 2
+http://bitkananeretvi.net:8000/live.ts?channelId=23077&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-fight" tvg-name="ARENA FIGHT (RS)" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA FIGHT (RS)
+http://bitkananeretvi.net:8000/live.ts?channelId=23223&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="eurosport" tvg-name="EUROSPORT 1." tvg-logo="/noicon.png" group-title="SPORT" ,EUROSPORT 1.
+http://bitkananeretvi.net:8000/live.ts?channelId=23252&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="eurosport.sport" tvg-name="EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png" group-title="SPORT" ,EUROSPORT 1
+http://bitkananeretvi.net:8000/live.ts?channelId=20339&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="EUROSPORT_2" tvg-name="EUROSPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png" group-title="SPORT" ,EUROSPORT 2
+http://bitkananeretvi.net:8000/live.ts?channelId=20340&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="eurosport.sport" tvg-name="EUROSPORT 1 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/euro-sport1.png?resize=219%2C219" group-title="SPORT" ,EUROSPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=240&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="EUROSPORT 2 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/eurosport2.png?resize=219%2C219" group-title="SPORT" ,EUROSPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=247&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="EUROSPORT_1_HD." tvg-name="EUROSPORT 1 HD." tvg-logo="/noicon.png" group-title="SPORT" ,EUROSPORT 1 HD.
+http://bitkananeretvi.net:8000/live.ts?channelId=22964&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="EUROSPORT_2_HD." tvg-name="EUROSPORT 2 HD." tvg-logo="https://sport-tv-guide.live/images/tv-station-it-eurosport-2-674.png" group-title="SPORT" ,EUROSPORT 2 HD.
+http://bitkananeretvi.net:8000/live.ts?channelId=22965&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="NOVA_SPORT_HD." tvg-name="NOVA SPORT HD." tvg-logo="https://nstatic.net/img/tv/channels/m/nova-sport.png" group-title="SPORT" ,NOVA SPORT HD.
+http://bitkananeretvi.net:8000/live.ts?channelId=22998&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="NOVA_SPORT" tvg-name="NOVA SPORT" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/12/novasport.png?resize=219%2C219" group-title="SPORT" ,NOVA SPORT
+http://bitkananeretvi.net:8000/live.ts?channelId=1063&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MAX_SPORT_1" tvg-name="MAX SPORT 1" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport1.png" group-title="SPORT" ,MAX SPORT 1
+http://bitkananeretvi.net:8000/live.ts?channelId=23404&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MAX_SPORT_2" tvg-name="MAX SPORT 2" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_maxsport2.png" group-title="SPORT" ,MAX SPORT 2
+http://bitkananeretvi.net:8000/live.ts?channelId=23405&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MNE_SPORT_1_HD" tvg-name="MNE SPORT 1 HD" tvg-logo="/noicon.png" group-title="SPORT" ,MNE SPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23403&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MNE_SPORT_2_HD" tvg-name="MNE SPORT 2 HD" tvg-logo="/noicon.png" group-title="SPORT" ,MNE SPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23402&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MNE_SPORT_3_HD" tvg-name="MNE SPORT 3 HD" tvg-logo="/noicon.png" group-title="SPORT" ,MNE SPORT 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23401&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="PARTIZAN_TV_HD" tvg-name="PARTIZAN TV HD" tvg-logo="https://lh3.googleusercontent.com/proxy/V_-sJX70GWPNnUKSE8_ooJvpRQGTUwticyU6JPv27kpb0HF0pygthp73G9wZHW-FKLQ73QQc4pZhVznfM2XnAoMiOpsWayUyAV7O3-9AxtdAqCJFNJplgun772w17nlk" group-title="SPORT" ,PARTIZAN TV HD
+http://bitkananeretvi.net:8000/live.ts?channelId=20801&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ZVEZDA_TV_HD" tvg-name="ZVEZDA TV HD" tvg-logo="https://formaltv.com/wp-content/gallery/russian-tv/Zvezda-TV.png" group-title="SPORT" ,ZVEZDA TV HD
+http://bitkananeretvi.net:8000/live.ts?channelId=13640&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sos" tvg-name="SOS KANAL HD" tvg-logo="/noicon.png" group-title="SPORT" ,SOS KANAL HD
+http://bitkananeretvi.net:8000/live.ts?channelId=17996&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="GAMETOON_HD" tvg-name="GAMETOON HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/gametoon_HD_MGC.png" group-title="SPORT" ,GAMETOON HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23334&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="kuvo-tv" tvg-name="KUVO TV" tvg-logo="/noicon.png" group-title="SPORT" ,KUVO TV
+http://bitkananeretvi.net:8000/live.ts?channelId=23265&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPTV" tvg-name="SPTV" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sptv-sportska-tv.png?resize=219%2C219" group-title="SPORT" ,SPTV
+http://bitkananeretvi.net:8000/live.ts?channelId=176&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="SK 1  HR" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk1hd.png" group-title="SPORT" ,SK 1  HR
+http://bitkananeretvi.net:8000/live.ts?channelId=20962&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SK_1_HD" tvg-name="SK 1 HD" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk1hd.png" group-title="SPORT" ,SK 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=20961&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SK_2_HD" tvg-name="SK 2 HD" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-2.png" group-title="SPORT" ,SK 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=20968&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SK_1_HD_CG" tvg-name="SK 1 HD CG" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk1hd.png" group-title="SPORT" ,SK 1 HD CG
+http://bitkananeretvi.net:8000/live.ts?channelId=20967&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_1_(SLO)" tvg-name="SPORT KLUB 1 (SLO)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 1 (SLO)
+http://bitkananeretvi.net:8000/live.ts?channelId=22592&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="SPORT KLUB 1 SD (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 1 SD (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=184&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_SD_(HR)" tvg-name="SPORT KLUB SD (HR)" tvg-logo="https://cdn.prognozist.ru/match-center/1533049669_tv_787.png" group-title="SPORT" ,SPORT KLUB SD (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=15416&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="SPORT KLUB 2 SD (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk2.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 2 SD (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=186&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_3_SD_(HR)" tvg-name="SPORT KLUB 3 SD (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk3.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 3 SD (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=4718&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_HD_(HR)" tvg-name="SPORT KLUB HD (HR)" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB HD (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=15415&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sk-esports" tvg-name="SK ESPORTS" tvg-logo="http://sportklub.com/sportklub-logo.png" group-title="SPORT" ,SK ESPORTS
+http://bitkananeretvi.net:8000/live.ts?channelId=17534&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="golf-klub" tvg-name="SPORT KLUB GOLF" tvg-logo="https://sport-tv-guide.live/images/stations/a339.png" group-title="SPORT" ,SPORT KLUB GOLF
+http://bitkananeretvi.net:8000/live.ts?channelId=20275&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sport-klub" tvg-name="SPORT KLUB 1 HD (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 1 HD (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=1078&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_2_HD_(SR)" tvg-name="SPORT KLUB 2 HD (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk2.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 2 HD (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=1079&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_3_HD_(SR)" tvg-name="SPORT KLUB 3 HD (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk3.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 3 HD (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=1080&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_4_(SR)" tvg-name="SPORT KLUB 4 (SR)" tvg-logo="http://www.infel.net.mk/media/images/tv_channels/sportklub_4.png" group-title="SPORT" ,SPORT KLUB 4 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=11671&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5 (SR)" tvg-logo="https://nstatic.net/img/tv/channels/m/sport-klub-5.png" group-title="SPORT" ,SPORT KLUB 5 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=11672&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_6_(SR)" tvg-name="SPORT KLUB 6 (SR)" tvg-logo="http://www.infel.net.mk/media/images/tv_channels/sportklub_6.png" group-title="SPORT" ,SPORT KLUB 6 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=17543&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SK_SPORTS_HD" tvg-name="SK SPORTS HD" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQFcz6vedZHIwg/company-logo_200_200/0/1582372220671?e=2159024400&v=beta&t=4UhwZ2cMTQm2HnqjHrpVXExVv8w-0dfrP4IaaKQEj7I" group-title="SPORT" ,SK SPORTS HD
+http://bitkananeretvi.net:8000/live.ts?channelId=17544&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="SPORT KLUB 1 HD (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 1 HD (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=183&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sportklub-plus-hr" tvg-name="SPORT KLUB 2 HD (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk2.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 2 HD (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=185&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_3_HD_(HR)" tvg-name="SPORT KLUB 3 HD (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk3.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 3 HD (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=277&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_1_HD" tvg-name="SPORT KLUB 1 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=325&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_2_HD" tvg-name="SPORT KLUB 2 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk2.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=324&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_3_HD" tvg-name="SPORT KLUB 3 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk3.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=326&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_4_HD" tvg-name="SPORT KLUB 4 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk4.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 4 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=323&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_1_(SRB)" tvg-name="SPORT KLUB 1 (SRB)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 1 (SRB)
+http://bitkananeretvi.net:8000/live.ts?channelId=3006&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_2_(SRB)" tvg-name="SPORT KLUB 2 (SRB)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk2.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 2 (SRB)
+http://bitkananeretvi.net:8000/live.ts?channelId=3005&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_3_(SRB)" tvg-name="SPORT KLUB 3 (SRB)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk3.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 3 (SRB)
+http://bitkananeretvi.net:8000/live.ts?channelId=3004&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_4_HD_(SR)" tvg-name="SPORT KLUB 4 HD (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk4.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 4 HD (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=1081&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_5_HD_(SR)" tvg-name="SPORT KLUB 5 HD (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk5.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 5 HD (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=1082&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_KLUB_6_HD_(SR)" tvg-name="SPORT KLUB 6 HD (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2018/02/sk1.png?resize=219%2C219" group-title="SPORT" ,SPORT KLUB 6 HD (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=1083&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sport-klub-7" tvg-name="SPORT KLUB 7" tvg-logo="https://sport-tv-guide.live/images/stations/a1391.png" group-title="SPORT" ,SPORT KLUB 7
+http://bitkananeretvi.net:8000/live.ts?channelId=2932&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sport-klub-8" tvg-name="SPORT KLUB 8" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportklub-8-1392.png" group-title="SPORT" ,SPORT KLUB 8
+http://bitkananeretvi.net:8000/live.ts?channelId=2933&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sport-klub-9" tvg-name="SPORT KLUB 9" tvg-logo="https://sport-tv-guide.live/images/stations/a1393.png" group-title="SPORT" ,SPORT KLUB 9
+http://bitkananeretvi.net:8000/live.ts?channelId=2934&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sport-klub-10" tvg-name="SPORT KLUB 10" tvg-logo="https://sport-tv-guide.live/images/stations/a1394.png" group-title="SPORT" ,SPORT KLUB 10
+http://bitkananeretvi.net:8000/live.ts?channelId=2935&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_LIGA_BIH" tvg-name="ARENA LIGA BIH" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA LIGA BIH
+http://bitkananeretvi.net:8000/live.ts?channelId=3102&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_LIGA_BIH_2" tvg-name="ARENA LIGA BIH 2" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA LIGA BIH 2
+http://bitkananeretvi.net:8000/live.ts?channelId=3902&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="Arena Esport HD (SN)" tvg-name="ARENA ESPORT HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDjqmI1DtcH2xJrN8T5IN3nIlTvHAEykY80xg=s240-mo-c-c0xffffffff-rj-k-no" group-title="SPORT" ,ARENA ESPORT HD
+http://bitkananeretvi.net:8000/live.ts?channelId=1068&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="ARENA SPORT 1 (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport1.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 1 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=221&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="ARENA SPORT 2 (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport2.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 2 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=223&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="ARENA SPORT 3 (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport3.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 3 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=225&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="ARENA SPORT 4 (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport4.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 4 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=227&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="ARENA SPORT 5 (HR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport5.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 5 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=229&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="ARENA SPORT 6 (HR)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="SPORT" ,ARENA SPORT 6 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=23213&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-name="ARENA SPORT 7 (HR)" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA SPORT 7 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=23214&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-8-hr" tvg-name="ARENA SPORT 8 (HR)" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA SPORT 8 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=23215&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="ARENA SPORT 9 (HR)" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA SPORT 9 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=23216&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-name="ARENA SPORT 10 (HR)" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA SPORT 10 (HR)
+http://bitkananeretvi.net:8000/live.ts?channelId=23217&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_ESPORT_HD." tvg-name="ARENA ESPORT HD." tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQG8eyv6Dt_X2A/company-logo_200_200/0?e=2159024400&v=beta&t=JQQ2CUbp7ucCwWLz_waRPBSIykmJ0kcUZs_ZdRGlErY" group-title="SPORT" ,ARENA ESPORT HD.
+http://bitkananeretvi.net:8000/live.ts?channelId=22966&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="ARENA SPORT 1 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport1.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=220&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_2_HD" tvg-name="ARENA SPORT 2 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport2.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=222&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_3_HD" tvg-name="ARENA SPORT 3 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport3.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=3556&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_4_HD" tvg-name="ARENA SPORT 4 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport4.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 4 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=226&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_5_HD" tvg-name="ARENA SPORT 5 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport5.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 5 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=228&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_6_HD" tvg-name="ARENA SPORT 6 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/arena6_logo.png" group-title="SPORT" ,ARENA SPORT 6 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23280&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_7_HD" tvg-name="ARENA SPORT 7 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="SPORT" ,ARENA SPORT 7 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=265&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_8_HD" tvg-name="ARENA SPORT 8 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="SPORT" ,ARENA SPORT 8 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=266&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_8" tvg-name="ARENA SPORT 8" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="SPORT" ,ARENA SPORT 8
+http://bitkananeretvi.net:8000/live.ts?channelId=3084&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="ARENA SPORT 1 (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport1.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 1 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=521&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="ARENA SPORT 2 (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport2.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 2 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=519&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="ARENA SPORT 3 (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport3.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 3 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=520&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="ARENA SPORT 4 (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport4.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 4 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=518&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ARENA SPORT 5 (SR)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport5.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 5 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=522&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-6" tvg-name="ARENA SPORT 6 HD (SR)" tvg-logo="https://sport-tv-guide.live/images/stations/a324.png" group-title="SPORT" ,ARENA SPORT 6 HD (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=23193&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_1_(SRB)" tvg-name="ARENA SPORT 1 (SRB)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport1.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 1 (SRB)
+http://bitkananeretvi.net:8000/live.ts?channelId=3023&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 (SRB)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport2.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 2 (SRB)
+http://bitkananeretvi.net:8000/live.ts?channelId=3024&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_3_(SRB)" tvg-name="ARENA SPORT 3 (SRB)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport3.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 3 (SRB)
+http://bitkananeretvi.net:8000/live.ts?channelId=3025&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 (SRB)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport4.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 4 (SRB)
+http://bitkananeretvi.net:8000/live.ts?channelId=3026&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_5_(SRB)" tvg-name="ARENA SPORT 5 (SRB)" tvg-logo="https://umetnikfotograf.files.wordpress.com/2017/12/arenasport5.png?resize=219%2C219" group-title="SPORT" ,ARENA SPORT 5 (SRB)
+http://bitkananeretvi.net:8000/live.ts?channelId=3027&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_ESPORTS" tvg-name="ARENA ESPORTS" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQG8eyv6Dt_X2A/company-logo_200_200/0?e=2159024400&v=beta&t=JQQ2CUbp7ucCwWLz_waRPBSIykmJ0kcUZs_ZdRGlErY" group-title="SPORT" ,ARENA ESPORTS
+http://bitkananeretvi.net:8000/live.ts?channelId=611&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_1_(SR)" tvg-name="ARENA 1 (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/Arenasport%201.png" group-title="SPORT" ,ARENA 1 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=4657&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_2_(SR)" tvg-name="ARENA 2 (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/Arenasport%202.png" group-title="SPORT" ,ARENA 2 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=4658&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_3_(SR)" tvg-name="ARENA 3 (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/Arenasport%203.png" group-title="SPORT" ,ARENA 3 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=4659&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_4_(SR)" tvg-name="ARENA 4 (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/Arenasport%204.png" group-title="SPORT" ,ARENA 4 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=4660&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="ARENA 5 (SR)" tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/Arenasport%205.png" group-title="SPORT" ,ARENA 5 (SR)
+http://bitkananeretvi.net:8000/live.ts?channelId=4661&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="arena-sport-1-ba" tvg-name="ARENA SPORT 1 (BIH)" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA SPORT 1 (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=4884&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_2_(BIH)" tvg-name="ARENA SPORT 2 (BIH)" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA SPORT 2 (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=4920&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_3_(BIH)" tvg-name="ARENA SPORT 3 (BIH)" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA SPORT 3 (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=4921&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_4_(BIH)" tvg-name="ARENA SPORT 4 (BIH)" tvg-logo="https://pixtergo.com/wp-content/uploads/arenasport4_logo_16_9_light_384x216_0e9305d8_bfed_45ed_abc6_7a2d56cdae45.png" group-title="SPORT" ,ARENA SPORT 4 (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=4922&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_5_(BIH)" tvg-name="ARENA SPORT 5 (BIH)" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena5.png" group-title="SPORT" ,ARENA SPORT 5 (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=5209&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 6 (BIH)" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena6.png" group-title="SPORT" ,ARENA SPORT 6 (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=5211&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_1_HD_(BIH)" tvg-name="ARENA SPORT 1 HD (BIH)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQyZM4lbKQx9Shb-opeU4ztsVWNMAEDpPUijYsOltMygG0EDfa" group-title="SPORT" ,ARENA SPORT 1 HD (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=13117&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_2_HD_(BIH)" tvg-name="ARENA SPORT 2 HD (BIH)" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena2.png" group-title="SPORT" ,ARENA SPORT 2 HD (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=13118&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_3_HD_(BIH)" tvg-name="ARENA SPORT 3 HD (BIH)" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena3.png" group-title="SPORT" ,ARENA SPORT 3 HD (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=13119&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ARENA_SPORT_4_HD_(BIH)" tvg-name="ARENA SPORT 4 HD (BIH)" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena4.png" group-title="SPORT" ,ARENA SPORT 4 HD (BIH)
+http://bitkananeretvi.net:8000/live.ts?channelId=13120&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_TV_1_HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://sporter.si/images/tv-station--350.png" group-title="SPORT" ,SPORT TV 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=385&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_TV_2_HD" tvg-name="SPORT TV 2 HD" tvg-logo="http://sporter.si/images/tv-station-si-sport-tv-2-351.png" group-title="SPORT" ,SPORT TV 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=386&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_TV_3_HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://tvin-vgc.sdn.si/cdn/sioltv/logo/150x80/sporttv3.png" group-title="SPORT" ,SPORT TV 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=387&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="dazn-1-de" tvg-name="DAZN 1 HD" tvg-logo="https://cdn.mos.cms.futurecdn.net/FsAivAFcA74xErTYjoysJD-320-80.jpg" group-title="SPORT" ,DAZN 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=2927&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="dazn-2-de" tvg-name="DAZN 2 HD" tvg-logo="https://cdn.mos.cms.futurecdn.net/FsAivAFcA74xErTYjoysJD-320-80.jpg" group-title="SPORT" ,DAZN 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=2928&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-news-de" tvg-name="S SPORT NEWS" tvg-logo="https://img.schnaeppchenfuchs.com/img/a1/f4/20/skyp.jpg?arw=1&h=240&lossless=1&q=70&auto=compress%2Cformat" group-title="SPORT" ,S SPORT NEWS
+http://bitkananeretvi.net:8000/live.ts?channelId=591&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="S_SPORT_1_SD" tvg-name="S SPORT 1 SD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/skysports2_1.png?itok=AlP-NnSW" group-title="SPORT" ,S SPORT 1 SD
+http://bitkananeretvi.net:8000/live.ts?channelId=5251&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="S_SPORT_1_HD" tvg-name="S SPORT 1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/skysports2_1.png?itok=AlP-NnSW" group-title="SPORT" ,S SPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=341&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="S_SPORT_2_HD" tvg-name="S SPORT 2 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/skysports2_1.png?itok=AlP-NnSW" group-title="SPORT" ,S SPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=342&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-3-de" tvg-name="S SPORT 3 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/skysports2_1.png?itok=AlP-NnSW" group-title="SPORT" ,S SPORT 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=1410&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-4-de" tvg-name="S SPORT 4 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/skysports2_1.png?itok=AlP-NnSW" group-title="SPORT" ,S SPORT 4 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=1411&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-5-de" tvg-name="S SPORT 5 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/skysports2_1.png?itok=AlP-NnSW" group-title="SPORT" ,S SPORT 5 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=1412&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-6-de" tvg-name="S SPORT 6 HD" tvg-logo="https://prod-logos.skygo.co.nz/648988/prod/Sky_Go_TV_-_Prod/160/583/056__V30.png.png" group-title="SPORT" ,S SPORT 6 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23045&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-7-de" tvg-name="S SPORT 7 HD" tvg-logo="https://www.skytv.co.nz/Portals/0/Assets/csr/SKY%20Cloud%20Image%20Base/Edited%20images/057.jpg" group-title="SPORT" ,S SPORT 7 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23046&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-8-de" tvg-name="S SPORT 8 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/skysports2_1.png?itok=AlP-NnSW" group-title="SPORT" ,S SPORT 8 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=1415&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="S_SPORT_AUSTRIA" tvg-name="S SPORT AUSTRIA" tvg-logo="http://tvepg.eu/img/united_kingdom/logo/sky_sports_football.png" group-title="SPORT" ,S SPORT AUSTRIA
+http://bitkananeretvi.net:8000/live.ts?channelId=15203&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-1" tvg-name="B LIGA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/1bundesliga_new.gif" group-title="SPORT" ,B LIGA 1 SD
+http://bitkananeretvi.net:8000/live.ts?channelId=5252&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-1" tvg-name="B LIGA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9PlQUB8ogD-lr9qKzfaKFC12N6kpMvBHvDkZz1p0NJEdohywo&s" group-title="SPORT" ,B LIGA 1
+http://bitkananeretvi.net:8000/live.ts?channelId=2183&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-2" tvg-name="B LIGA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9PlQUB8ogD-lr9qKzfaKFC12N6kpMvBHvDkZz1p0NJEdohywo&s" group-title="SPORT" ,B LIGA 2
+http://bitkananeretvi.net:8000/live.ts?channelId=2184&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-3" tvg-name="B LIGA 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9PlQUB8ogD-lr9qKzfaKFC12N6kpMvBHvDkZz1p0NJEdohywo&s" group-title="SPORT" ,B LIGA 3
+http://bitkananeretvi.net:8000/live.ts?channelId=2186&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-4" tvg-name="B LIGA 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9PlQUB8ogD-lr9qKzfaKFC12N6kpMvBHvDkZz1p0NJEdohywo&s" group-title="SPORT" ,B LIGA 4
+http://bitkananeretvi.net:8000/live.ts?channelId=2187&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="sky-sport-bundesliga-6" tvg-name="B LIGA 6" tvg-logo="http://content.sportslogos.net/logos/132/4162/thumbs/4vp0uxegjisz9g2ohx5doaeqe.gif" group-title="SPORT" ,B LIGA 6
+http://bitkananeretvi.net:8000/live.ts?channelId=4973&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT1_(DE)" tvg-name="SPORT1 (DE)" tvg-logo="https://www.mediaimpact.de/data/uploads/2018/07/Sport1BILD-260x200.png" group-title="SPORT" ,SPORT1 (DE)
+http://bitkananeretvi.net:8000/live.ts?channelId=218&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT1_HD" tvg-name="SPORT1 HD" tvg-logo="https://www.mediaimpact.de/data/uploads/2018/07/Sport1BILD-260x200.png" group-title="SPORT" ,SPORT1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23094&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="EUROSPORT_1._(DE)" tvg-name="EUROSPORT 1. (DE)" tvg-logo="/noicon.png" group-title="SPORT" ,EUROSPORT 1. (DE)
+http://bitkananeretvi.net:8000/live.ts?channelId=23237&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="EUROSPORT_1_(DE)" tvg-name="EUROSPORT 1 (DE)" tvg-logo="https://2.bp.blogspot.com/--JVLWwYSOnU/WwBZGVpq_1I/AAAAAAAAHEE/m8--bVhvzH0llOBpXB_yeGhtG2Kw_PN5wCLcBGAs/w680/europsort-1-HD.jpg" group-title="SPORT" ,EUROSPORT 1 (DE)
+http://bitkananeretvi.net:8000/live.ts?channelId=585&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="EUROSPORT_2_(DE)" tvg-name="EUROSPORT 2 (DE)" tvg-logo="https://1.bp.blogspot.com/-x2K22z3gnH4/V_DtGEWhSYI/AAAAAAAACgE/Gebxp6soJaQZ-lpqhKxx_QOdGlk-VakPwCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg" group-title="SPORT" ,EUROSPORT 2 (DE)
+http://bitkananeretvi.net:8000/live.ts?channelId=4672&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_1_HD" tvg-name="SUPER SPORT 1 HD" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica1.jpg" group-title="SPORT" ,SUPER SPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21577&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_2_HD" tvg-name="SUPER SPORT 2 HD" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica2.jpg" group-title="SPORT" ,SUPER SPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21578&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_3_HD" tvg-name="SUPER SPORT 3 HD" tvg-logo="https://d2h4yf3jy9nqol.cloudfront.net/Channels/130717457956653917.jpg" group-title="SPORT" ,SUPER SPORT 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21579&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_4_HD" tvg-name="SUPER SPORT 4 HD" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica4.jpg" group-title="SPORT" ,SUPER SPORT 4 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21580&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_5_HD" tvg-name="SUPER SPORT 5 HD" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica5.jpg" group-title="SPORT" ,SUPER SPORT 5 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21581&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_6_HD" tvg-name="SUPER SPORT 6 HD" tvg-logo="https://www.dstv.co.za/media/5111/206-supersport-6-light.png?preset=LogoThumbnail200" group-title="SPORT" ,SUPER SPORT 6 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21582&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_7_HD" tvg-name="SUPER SPORT 7 HD" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fsuperafrica7.jpg" group-title="SPORT" ,SUPER SPORT 7 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21583&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_8_HD" tvg-name="SUPER SPORT 8 HD" tvg-logo="https://1.bp.blogspot.com/-2E3TfJBhMko/UeVi3PER4QI/AAAAAAAAv90/a2o8imlkkZU/s1600/SuperSport+8+logo.png" group-title="SPORT" ,SUPER SPORT 8 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21584&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_9_HD" tvg-name="SUPER SPORT 9 HD" tvg-logo="https://www.dstv.co.za/media/5116/209-supersport-9-dark.png" group-title="SPORT" ,SUPER SPORT 9 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21585&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SUPER_SPORT_10_HD" tvg-name="SUPER SPORT 10 HD" tvg-logo="https://www.dstv.co.za/media/5118/210-supersport-10-dark.png" group-title="SPORT" ,SUPER SPORT 10 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=21586&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ZIGGO_SPORT_SELECT" tvg-name="ZIGGO SPORT SELECT" tvg-logo="https://www.gids.tv/img/icons/tv/zenders/71/icon-size-256.png" group-title="SPORT" ,ZIGGO SPORT SELECT
+http://bitkananeretvi.net:8000/live.ts?channelId=4998&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ZIGGO_SPORT_VOETBAL_HD" tvg-name="ZIGGO SPORT VOETBAL HD" tvg-logo="https://www.gids.tv/img/icons/tv/zenders/80/icon-size-256.png" group-title="SPORT" ,ZIGGO SPORT VOETBAL HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5001&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ZIGGO_SPORT_RACING" tvg-name="ZIGGO SPORT RACING" tvg-logo="https://www.gids.tv/img/icons/tv/zenders/157/icon-size-256.png" group-title="SPORT" ,ZIGGO SPORT RACING
+http://bitkananeretvi.net:8000/live.ts?channelId=5004&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ZIGGO_SPORT_GOLF" tvg-name="ZIGGO SPORT GOLF" tvg-logo="https://www.gids.tv/img/icons/tv/zenders/81/icon-size-256.png" group-title="SPORT" ,ZIGGO SPORT GOLF
+http://bitkananeretvi.net:8000/live.ts?channelId=5005&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ESPN_1_HD_(NL)" tvg-name="ESPN 1 HD (NL)" tvg-logo="https://i.pinimg.com/originals/e1/47/b6/e147b6d56ff37771bc7899de11268847.jpg" group-title="SPORT" ,ESPN 1 HD (NL)
+http://bitkananeretvi.net:8000/live.ts?channelId=3525&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ESPN_2_HD_(NL)" tvg-name="ESPN 2 HD (NL)" tvg-logo="https://lh3.googleusercontent.com/proxy/-lD3Ks5gRzzUNNNXhMbYXtFu-ABEFj8RWWeNMQLAGvFXxHW9Cq0oEqvPhSCOvwuEc26SFCpwtchWxKKnpjLX25NppBBGfWKjVhVUqLBK1iMt34dND3J6h23-XVRX" group-title="SPORT" ,ESPN 2 HD (NL)
+http://bitkananeretvi.net:8000/live.ts?channelId=3526&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ESPN_3_HD_(NL)" tvg-name="ESPN 3 HD (NL)" tvg-logo="https://lh3.googleusercontent.com/proxy/JkrlrKy1EgtY0csYPIqUb1n8_0g7EuLw8fojjFBMhs1p6Y63KarT48EIvcSoppXHGyTGll1lU9_wR5uowheLK5-FsY7CQjfZDg_OTh3TXQaatnwGsVwkcI-Ug4K2" group-title="SPORT" ,ESPN 3 HD (NL)
+http://bitkananeretvi.net:8000/live.ts?channelId=3527&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ESPN_4_HD_(NL)" tvg-name="ESPN 4 HD (NL)" tvg-logo="https://www.delta.nl/media/2332/espn4-delta.png?anchor=center&mode=crop&width=300&rnd=132531240610000000" group-title="SPORT" ,ESPN 4 HD (NL)
+http://bitkananeretvi.net:8000/live.ts?channelId=3528&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ESPN_5_HD_(NL)" tvg-name="ESPN 5 HD (NL)" tvg-logo="https://www.delta.nl/media/2333/espn5.png?anchor=center&mode=crop&width=300&rnd=132531241670000000" group-title="SPORT" ,ESPN 5 HD (NL)
+http://bitkananeretvi.net:8000/live.ts?channelId=3529&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ESPN_6_HD_(NL)" tvg-name="ESPN 6 HD (NL)" tvg-logo="https://www.delta.nl/media/2329/espn6-delta.png?anchor=center&mode=crop&width=300&rnd=132531243110000000" group-title="SPORT" ,ESPN 6 HD (NL)
+http://bitkananeretvi.net:8000/live.ts?channelId=23118&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BT_SPORT_1" tvg-name="BT SPORT 1" tvg-logo="/noicon.png" group-title="SPORT" ,BT SPORT 1
+http://bitkananeretvi.net:8000/live.ts?channelId=4796&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BT_SPORT_2" tvg-name="BT SPORT 2" tvg-logo="https://bt-sport-business-prod.s3.amazonaws.com/wp-content/uploads/2014/07/BTS-2_305x229.jpg" group-title="SPORT" ,BT SPORT 2
+http://bitkananeretvi.net:8000/live.ts?channelId=4797&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BT_SPORT_3" tvg-name="BT SPORT 3" tvg-logo="https://tvepg.eu/img/ireland/logo/bt_sport_3.png" group-title="SPORT" ,BT SPORT 3
+http://bitkananeretvi.net:8000/live.ts?channelId=4798&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="UK_SPORT_1" tvg-name="UK SPORT 1" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport1-hd.png" group-title="SPORT" ,UK SPORT 1
+http://bitkananeretvi.net:8000/live.ts?channelId=3069&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="UK_SPORT_2" tvg-name="UK SPORT 2" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/sky_logo_sky-sport2-hd.png" group-title="SPORT" ,UK SPORT 2
+http://bitkananeretvi.net:8000/live.ts?channelId=3070&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="UK_SPORTS_PREMIER_LEAGUE" tvg-name="UK SPORTS PREMIER LEAGUE" tvg-logo="/noicon.png" group-title="SPORT" ,UK SPORTS PREMIER LEAGUE
+http://bitkananeretvi.net:8000/live.ts?channelId=5021&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="UK_SPORTS_FOOTBALL" tvg-name="UK SPORTS FOOTBALL" tvg-logo="https://data.apksum.com/ea/com.bskyb.fbscore/5.10.0/icon.png" group-title="SPORT" ,UK SPORTS FOOTBALL
+http://bitkananeretvi.net:8000/live.ts?channelId=5024&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="TELEKOM_SPORT_1_(ROM)" tvg-name="TELEKOM SPORT 1 (ROM)" tvg-logo="https://sport-tv-guide.live/images/stations/a884.png" group-title="SPORT" ,TELEKOM SPORT 1 (ROM)
+http://bitkananeretvi.net:8000/live.ts?channelId=4879&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="TELEKOM_SPORT_2_(ROM)" tvg-name="TELEKOM SPORT 2 (ROM)" tvg-logo="/noicon.png" group-title="SPORT" ,TELEKOM SPORT 2 (ROM)
+http://bitkananeretvi.net:8000/live.ts?channelId=4880&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="TELEKOM_SPORT_3_(ROM)" tvg-name="TELEKOM SPORT 3 (ROM)" tvg-logo="https://sport-tv-guide.live/images/stations/a886.png" group-title="SPORT" ,TELEKOM SPORT 3 (ROM)
+http://bitkananeretvi.net:8000/live.ts?channelId=4881&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ELEVEN_SPORT_1_HD" tvg-name="ELEVEN SPORT 1 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/eleven-sport-1.png?resize=219%2C219" group-title="SPORT" ,ELEVEN SPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=22817&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ELEVEN_SPORT_2_HD" tvg-name="ELEVEN SPORT 2 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/eleven-sport-2-1.png?resize=219%2C219" group-title="SPORT" ,ELEVEN SPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=22818&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="ELEVEN_SPORT_3_HD" tvg-name="ELEVEN SPORT 3 HD" tvg-logo="https://umetnikfotograf.files.wordpress.com/2020/11/eleven-sport-1.png?resize=219%2C219" group-title="SPORT" ,ELEVEN SPORT 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=22819&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="DIGI SPORT 1" tvg-logo="https://sport-tv-guide.live/images/stations/a598.png" group-title="SPORT" ,DIGI SPORT 1
+http://bitkananeretvi.net:8000/live.ts?channelId=2949&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="DIGI_SPORT_2" tvg-name="DIGI SPORT 2" tvg-logo="http://www.canlisportv.com//media/images/tvlogo/8d1e130f-39c7-4ea8-8965-1f60c4a9428e_digisport2-tv.jpg" group-title="SPORT" ,DIGI SPORT 2
+http://bitkananeretvi.net:8000/live.ts?channelId=4858&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="DIGI_SPORT_3" tvg-name="DIGI SPORT 3" tvg-logo="https://3.bp.blogspot.com/-tR2DjWJiT1I/VuVOn3ebELI/AAAAAAAABMw/AFu5BdWQvm820M_NtHz6zlzTQ_Rpbo7Qg/s1600/digisport3_logo.jpg" group-title="SPORT" ,DIGI SPORT 3
+http://bitkananeretvi.net:8000/live.ts?channelId=4859&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MAX_SPORT_1_HD" tvg-name="MAX SPORT 1 HD" tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fbulgaria%2Fmax+sport+1.gif" group-title="SPORT" ,MAX SPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=2961&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MAX_SPORT_2_HD" tvg-name="MAX SPORT 2 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1435.png" group-title="SPORT" ,MAX SPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=2960&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MAX_SPORT_3_HD" tvg-name="MAX SPORT 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1o2gw9kcgbSULqojd-M6nCuGnqE2KxNtdModJUD6COfrDr6EO" group-title="SPORT" ,MAX SPORT 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=2959&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MAX_SPORT_4_HD" tvg-name="MAX SPORT 4 HD" tvg-logo="https://futbol-live.com/wp-content/uploads/2019/06/max-sport-4.png" group-title="SPORT" ,MAX SPORT 4 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=2958&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="A SPORT 1 HD" tvg-logo="https://2.bp.blogspot.com/-ahNQZ7evXso/WtRU2xyJl1I/AAAAAAAAYoE/y2zEwq8FWtgd2SEwO4SNQWJeSK-oemnggCEwYBhgL/s1600/download.png" group-title="SPORT" ,A SPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=2894&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="A SPORT 2 HD" tvg-logo="https://2.bp.blogspot.com/-ahNQZ7evXso/WtRU2xyJl1I/AAAAAAAAYoE/y2zEwq8FWtgd2SEwO4SNQWJeSK-oemnggCEwYBhgL/s1600/download.png" group-title="SPORT" ,A SPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=2895&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="A SPORT 3 HD" tvg-logo="https://2.bp.blogspot.com/-ahNQZ7evXso/WtRU2xyJl1I/AAAAAAAAYoE/y2zEwq8FWtgd2SEwO4SNQWJeSK-oemnggCEwYBhgL/s1600/download.png" group-title="SPORT" ,A SPORT 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=2896&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_1" tvg-name="BEINSPORTS_1" tvg-logo="https://i.pinimg.com/originals/2e/85/70/2e85701ba74ed4798070ad140eb54463.png" group-title="SPORT" ,BEINSPORTS_1
+http://bitkananeretvi.net:8000/live.ts?channelId=1398&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_2" tvg-name="BEINSPORTS_2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJuwkrllgdc0zlg8NVECTvbFKt6ap6N_7YdiW5xU4kNmSvIsez&s" group-title="SPORT" ,BEINSPORTS_2
+http://bitkananeretvi.net:8000/live.ts?channelId=1399&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_3" tvg-name="BEINSPORTS_3" tvg-logo="http://4.bp.blogspot.com/-KbY3x35qT_Q/U8jyoGlJ5RI/AAAAAAAAAcU/fS3u30aPw6Y/s1600/bein+sports+3HD.png" group-title="SPORT" ,BEINSPORTS_3
+http://bitkananeretvi.net:8000/live.ts?channelId=1400&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="RMC_SPORT_1" tvg-name="RMC_SPORT 1" tvg-logo="https://sport-tv-guide.live/images/stations/a1427.png" group-title="SPORT" ,RMC_SPORT 1
+http://bitkananeretvi.net:8000/live.ts?channelId=1394&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT 2" tvg-logo="https://sport-tv-guide.live/images/stations/a1428.png" group-title="SPORT" ,RMC_SPORT 2
+http://bitkananeretvi.net:8000/live.ts?channelId=1395&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="RMC_SPORT_3" tvg-name="RMC_SPORT 3" tvg-logo="https://sport-tv-guide.live/images/stations/a1429.png" group-title="SPORT" ,RMC_SPORT 3
+http://bitkananeretvi.net:8000/live.ts?channelId=1396&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT 4" tvg-logo="https://sport-tv-guide.live/images/tv-station-rmc-sport-4-1430.png" group-title="SPORT" ,RMC_SPORT 4
+http://bitkananeretvi.net:8000/live.ts?channelId=1397&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORTTV-1" tvg-name="SPORTTV-1" tvg-logo="/noicon.png" group-title="SPORT" ,SPORTTV-1
+http://bitkananeretvi.net:8000/live.ts?channelId=1390&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORTTV-2" tvg-name="SPORTTV-2" tvg-logo="https://4.bp.blogspot.com/-n9K7acPmDMo/XOXfES67NMI/AAAAAAAAA0E/KXGHwm0UH48sFPQUf8NBYv90yNdeHw39wCLcBGAs/s200/SPORTV2.png" group-title="SPORT" ,SPORTTV-2
+http://bitkananeretvi.net:8000/live.ts?channelId=1391&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV-3" tvg-logo="http://i.imgur.com/0M5qmw7.png" group-title="SPORT" ,SPORTTV-3
+http://bitkananeretvi.net:8000/live.ts?channelId=1392&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORTTV-4" tvg-name="SPORTTV-4" tvg-logo="/noicon.png" group-title="SPORT" ,SPORTTV-4
+http://bitkananeretvi.net:8000/live.ts?channelId=1401&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTs_NEWS HD" tvg-logo="https://3.bp.blogspot.com/-KXemLVIKM6w/W-VXiBQ4z5I/AAAAAAAAAww/7ntrBWevCpAebduLfKyrWBLFqtfGqNncwCLcBGAs/s200/Bein%2BSports.png" group-title="SPORT" ,BEINSPORTs_NEWS HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5286&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS-1-HD" tvg-name="BEINSPORTS-1-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS-1-HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5274&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_2_HD" tvg-name="BEINSPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5275&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_3_HD" tvg-name="BEINSPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5276&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_4_HD" tvg-name="BEINSPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS 4 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5277&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_5_HD" tvg-name="BEINSPORTS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS 5 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5278&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_6_HD" tvg-name="BEINSPORTS 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS 6 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5279&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS 7 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5280&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_8_HD" tvg-name="BEINSPORTS 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS 8 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5281&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_9_HD" tvg-name="BEINSPORTS 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS 9 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5282&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEINSPORTS_10_HD" tvg-name="BEINSPORTS 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/280px-Bein_sport_logo.png" group-title="SPORT" ,BEINSPORTS 10 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=5283&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEIN_SPORTS_1_HD_TR" tvg-name="BEIN SPORTS 1 HD TR" tvg-logo="https://i.pinimg.com/originals/2e/85/70/2e85701ba74ed4798070ad140eb54463.png" group-title="SPORT" ,BEIN SPORTS 1 HD TR
+http://bitkananeretvi.net:8000/live.ts?channelId=3455&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEIN_SPORTS_2_HD_TR" tvg-name="BEIN SPORTS 2 HD TR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJuwkrllgdc0zlg8NVECTvbFKt6ap6N_7YdiW5xU4kNmSvIsez&s" group-title="SPORT" ,BEIN SPORTS 2 HD TR
+http://bitkananeretvi.net:8000/live.ts?channelId=3454&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="BEIN_SPORTS_3_HD_TR" tvg-name="BEIN SPORTS 3 HD TR" tvg-logo="http://4.bp.blogspot.com/-KbY3x35qT_Q/U8jyoGlJ5RI/AAAAAAAAAcU/fS3u30aPw6Y/s1600/bein+sports+3HD.png" group-title="SPORT" ,BEIN SPORTS 3 HD TR
+http://bitkananeretvi.net:8000/live.ts?channelId=3453&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="K SPORT 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png" group-title="SPORT" ,K SPORT 1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=3435&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="K SPORT 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png" group-title="SPORT" ,K SPORT 2 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=3436&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="K_SPORT_3_HD" tvg-name="K SPORT 3 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-k-sport-3-1857.png" group-title="SPORT" ,K SPORT 3 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=3437&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="K SPORT 4 HD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Kujtesa-Sport-4-Live-300x225.png" group-title="SPORT" ,K SPORT 4 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=3438&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="SPORT_F1_HD" tvg-name="SPORT F1 HD" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo-small.png" group-title="SPORT" ,SPORT F1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=4995&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="F1_HD" tvg-name="F1 HD" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-F1-2020-logo-250.png" group-title="SPORT" ,F1 HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23219&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="DAZN_F1_Portugal" tvg-name="DAZN F1 Portugal" tvg-logo="https://tv.aladin.info/film/logo/304.jpg" group-title="SPORT" ,DAZN F1 Portugal
+http://bitkananeretvi.net:8000/live.ts?channelId=3032&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MOVIESTAR_GP" tvg-name="MOVIESTAR GP" tvg-logo="https://www.studiouniversal.it/logo_thumb/sky-sport-motogp-thumb.png" group-title="SPORT" ,MOVIESTAR GP
+http://bitkananeretvi.net:8000/live.ts?channelId=21835&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="MOTO_GP_HD" tvg-name="MOTO GP HD" tvg-logo="https://seeklogo.com/images/M/Moto_GP-logo-C8FA1C2B9B-seeklogo.com.png" group-title="SPORT" ,MOTO GP HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23220&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="NBA_HD" tvg-name="NBA HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/nbatv_pms-converted.png?itok=guB3XAoR" group-title="SPORT" ,NBA HD
+http://bitkananeretvi.net:8000/live.ts?channelId=3493&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="NBA_TV" tvg-name="NBA TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/nbatv_pms-converted.png?itok=guB3XAoR" group-title="SPORT" ,NBA TV
+http://bitkananeretvi.net:8000/live.ts?channelId=2919&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="FIGHT_BOX.HD." tvg-name="FIGHT BOX.HD." tvg-logo="/noicon.png" group-title="SPORT" ,FIGHT BOX.HD.
+http://bitkananeretvi.net:8000/live.ts?channelId=23275&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="FIGHT_BOX_HD" tvg-name="FIGHT BOX HD" tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/FightBOX-HD-TV.png" group-title="SPORT" ,FIGHT BOX HD
+http://bitkananeretvi.net:8000/live.ts?channelId=15595&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="FIGHT_BOX_HD." tvg-name="FIGHT BOX HD." tvg-logo="https://4.bp.blogspot.com/-hkMGV9ae6tU/V1ASB_QA4PI/AAAAAAAAGiE/fjlB5ne1RKAfQDv33Owvu__IYtorG_t8QCLcB/s1600/FIGHTBOX_HD-400.png" group-title="SPORT" ,FIGHT BOX HD.
+http://bitkananeretvi.net:8000/live.ts?channelId=22967&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="FIGHT_CHANNEL" tvg-name="FIGHT CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/8a3747581b51ab6944ec7d72d680be75d1d9ce4bab9c151e85709f69d60f2efc.png" group-title="SPORT" ,FIGHT CHANNEL
+http://bitkananeretvi.net:8000/live.ts?channelId=2973&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="TRACE_SPORTS_HD" tvg-name="TRACE SPORTS HD" tvg-logo="/noicon.png" group-title="SPORT" ,TRACE SPORTS HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23267&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="EXTREAM_SPORT" tvg-name="EXTREAM SPORT" tvg-logo="http://media.freecaster.com/img/poster/program/320x240/default/extreme.png" group-title="SPORT" ,EXTREAM SPORT
+http://bitkananeretvi.net:8000/live.ts?channelId=15594&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="REAL_MADRID_TV" tvg-name="REAL MADRID TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="SPORT" ,REAL MADRID TV
+http://bitkananeretvi.net:8000/live.ts?channelId=23060&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="Liverpool_TV_HD" tvg-name="Liverpool TV HD" tvg-logo="/noicon.png" group-title="SPORT" ,Liverpool TV HD
+http://bitkananeretvi.net:8000/live.ts?channelId=23256&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="LFCTV" tvg-name="LFCTV" tvg-logo="http://www.liveonlinetv.org/images/lfctv.png" group-title="SPORT" ,LFCTV
+http://bitkananeretvi.net:8000/live.ts?channelId=23080&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/ufc.png" group-title="SPORT" ,UFC
+http://bitkananeretvi.net:8000/live.ts?channelId=22172&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
+#EXTINF:-1 tvg-id="FC" tvg-name="FC" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fight-channel-1598.png" group-title="SPORT" ,FC
+http://bitkananeretvi.net:8000/live.ts?channelId=22176&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
