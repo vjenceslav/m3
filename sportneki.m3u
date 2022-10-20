@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="######_SPORT_######" tvg-name="###### SPORT ######" tvg-logo="https://umetnikfotograf.files.wordpress.com/2019/09/screenshot_54.png?resize=219%2C219" group-title="SPORT" ,###### SPORT ######
 http://bitkananeretvi.net:8000/live.ts?channelId=192&uid=57479&deviceSn=7DC411DE724D3&deviceMac=00:1A:79:C6:9A:01
 #EXTINF:-1 tvg-id="Arena Premium 1 (SN)" tvg-name="ARENA S PREMIUM 1" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA S PREMIUM 1
